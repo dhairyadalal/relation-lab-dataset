@@ -1,0 +1,99 @@
+text,label
+"""You can do a simple experiment which shows how important <e1>sun</e1> is for <e2>growth</e2> by planting a seed and putting it in a closet.""",cause-effect
+"""The word <e1>naughtiness</e1> is derived from a <e2>word</e2> meaning worthless.""",origin-entity
+"""And this means that researchers have lost a valuable lead in their hunt for the <e1>artists</e1> who created the <e2>figurines</e2>.""",product-producer
+"""The <e1>software</e1> uses the wrong comment <e2>marks</e2> for PHP files.""",instrument-agency
+"""We continue to see progress toward a world free of the <e1>daily terror</e1> of <e2>antipersonnel land mines</e2>.""",cause-effect
+"""The committee was instructed to come up with a document that can actually serve as a <e1>basis</e1> for a <e2>treaty</e2>.""",theme_tool
+"""A tear or a crease changes the character of the surface more drastically than a mere <e1>deformation</e1> from <e2>roundness</e2>.""",cause-effect
+"""These are new sorts of sponsors for us, a shoe company and a <e1>furniture</e1> <e2>maker</e2>.""",product-producer
+"""An easy way to eat cake; our rich <e1>cream cheese</e1> full of <e2>raisins</e2>, apples and cinnamon.""",part-whole
+"""Like other spiders, the <e1>tarantula</e1> makes a <e2>silken web</e2>, but not for snaring prey.""",product-producer
+"""Further left a <e1>boy</e1> is fighting a peacock with a <e2>stick</e2>, and to the right a boy is killing an attacking goat with a spear.""",instrument-agency
+"""Thailand has been bracing itself for a <e1>downturn</e1> in the wake of the <e2>bombs</e2>, especially in the tourist sector.""",cause-effect
+"""The following are <e1>verbatim excerpts</e1> from a <e2>lengthy article</e2>.""",origin-entity
+"""The <e1>food</e1> is kept in the <e2>kitchen</e2> and guests should help themselves as it is self service and not served by the hostel.""",content-container
+"""The <e1>diener</e1> takes a large <e2>scalpel</e2> and makes the incision in the trunk.""",instrument-agency
+"""For this reason the <e1>hairdresser</e1> prefers conventional <e2>scissors</e2>, which however do not exhibit the ergonomical advantages.""",instrument-agency
+"""The glass dome from the beginning of the century is gorgeous, prices are reasonable, and the <e1>waiters</e1> provide a <e2>show</e2> worth watching.""",product-producer
+"""The <e1>demonstrators</e1> composed the <e2>figure</e2> 420, representing the number of people still being held at the US prison in Cuba.""",product-producer
+"""So what I did, I wrote about my brother Allie's <e1>baseball</e1> <e2>mitt</e2>.""",part-whole
+"""The <e1>appointment</e1> was for more than one <e2>year</e2>, so the recommendation discussed evidence to date of the candidate's teaching.""",theme_tool
+"""Foreign <e1>hackers</e1> infiltrated the <e2>computer network</e2> several times in the last two months.""",part-whole
+"""The <e1>surrounding region</e1> is farmed for its <e2>fertility</e2>.""",product-producer
+"""We can make <e1>rolling</e1> easier and more effective by choosing a heavy <e2>rolling pin</e2>.""",instrument-agency
+"""The <e1>systolic murmur</e1> radiated to <e2>both carotid arteries</e2>.""",origin-entity
+"""One newly formed Iraqi battalion is on duty, with scheduled for <e1>activation</e1> by <e2>summer</e2> 2004.""",cause-effect
+"""When the <e1>taxi driver</e1> stopped his <e2>car</e2> and got out, the two people ran up the street toward downtown Potsdam.""",instrument-agency
+"""The <e1>program</e1> is for encryption of the <e2>information</e2>.""",theme_tool
+"""I put <e1>candy</e1> in my <e2>jar</e2>.""",content-container
+"""The <e1>microwave</e1> <e2>oven</e2> is one of the great inventions of the 20th century.""",instrument-agency
+"""Your <e1>stomach</e1> is supposed to contain <e2>acid</e2>.""",content-container
+"""The <e1>building</e1> contained a large <e2>open central space</e2> with tables and chairs as well as a nursery and two tearooms.""",content-container
+"""Each year over 2300 <e1>scientists</e1> from <e2>universities</e2>, industries and government labs perform research at the NSLS.""",origin-entity
+"""An opening is present in the diaphragm (the muscle that separates the <e1>chest cavity</e1> from the <e2>abdominal cavity</e2>).""",origin-entity
+"""The computer may execute the malicious program as soon as the <e1>email</e1> <e2>message</e2> is viewed.""",theme_tool
+"""Typically, an unglazed <e1>clay</e1> <e2>pot</e2> is submerged for 15 to 30 minutes to absorb water.""",part-whole
+"""An FBI <e1>informant</e1> infiltrated the <e2>group</e2>, the sources say, neutralizing the threat.""",part-whole
+"""The <e1>courts</e1> created the Freeman-Walter-Abele <e2>test</e2> to determine whether an algorithm only represents an abstract idea.""",product-producer
+"""Let's say <e1>women</e1> in the <e2>tribe</e2> who have the longest necks are the most desirable.""",part-whole
+"""Most <e1>sewing machines</e1> use a sturdier <e2>stitch</e2> known as the lock-stitch.""",instrument-agency
+"""The <e1>box</e1> holds three stiff <e2>cardboard tubes</e2>, each wrapped in now decaying cellophane.""",content-container
+"""Not too long ago, the <e1>grass</e1> was farmed for <e2>hay</e2>; then, it was ditched for mosquito control.""",product-producer
+"""Languages can benefit <e1>people</e1> from all <e2>walks</e2> of life.""",part-whole
+"""In a preliminary investigation, <e1>Cheddar cheese</e1> was made with a <e2>lactococcal starter</e2> overproducing different peptidases.""",instrument-agency
+"""With its non-slip, ambidextrous grip, the <e1>peeler</e1> glides effortlessly through <e2>foods</e2>.""",instrument-agency
+"""In 2006, the World Wide Web became a <e1>tool</e1> for bringing together the small <e2>contributions</e2> of millions of people and making them matter.""",theme_tool
+"""After successful completion of the comprehensives, the <e1>candidate</e1> writes a <e2>dissertation proposal</e2>.""",origin-entity
+"""Each <e1>child</e1> received a new <e2>book</e2> of his or her own.""",part-whole
+"""The Psychological Autopsy is a <e1>technique</e1> for investigating a hospital <e2>suicide</e2>.""",theme_tool
+"""They are taking the <e1>brains</e1> from <e2>babies</e2>.""",origin-entity
+"""Often the <e1>patient</e1> is kept in the <e2>hospital</e2> one night for observation, but in other cases the patient can be discharged home the same day as surgery.""",content-container
+"""There were the years of constant fatigue and shortness of breath, the heart attack at age 11, the <e1>collapse</e1> from <e2>exhaustion</e2> on her high school graduation night.""",cause-effect
+"""The date for final payment is shown on the <e1>confirmation</e1> <e2>invoice</e2>.""",origin-entity
+"""The <e1>forecast</e1> was for surprisingly good <e2>weather</e2> up until midnight.""",theme_tool
+"""The brachioradialis <e1>reflex</e1> is observed by striking the brachioradialis tendon directly with the <e2>hammer</e2> when the patient's arm is resting.""",instrument-agency
+"""The <e1>ball</e1> is retrieved from the <e2>hedge</e2>.""",origin-entity
+"""The <e1>morning session</e1> contains a <e2>tutorial</e2> that aims to address the basic issues necessary for a better understanding of this complicated topic.""",content-container
+"""Our <e1>hope</e1> is to extend this <e2>framework</e2> into reusable behaviors and UI widgets.""",theme_tool
+"""<e1>Batteries</e1> stored in <e2>contact</e2> with one another can generate heat and hydrogen gas.""",content-container
+"""The <e1>purpose</e1> of this Guide is to provide you with a general <e2>roadmap</e2> of some of the legal issues specific to podcasting.""",theme_tool
+"""Maybe some <e1>relationships</e1> are best kept in a <e2>box</e2>.""",content-container
+"""Bernie the <e1>barber</e1> downed his <e2>scissors</e2>, leaving the final triangle of hair uncut.""",instrument-agency
+"""Two sides search for the naked truth in the <e1>fight</e1> over a <e2>painting</e2> on display in a Florida shop.""",cause-effect
+"""The age of first marriage does not predict <e1>happiness</e1> after <e2>marriage</e2>.""",cause-effect
+"""Starting with DirectWIRE 3.0, you can connect <e1>multiple wires</e1> into a <e2>single input</e2>.""",part-whole
+"""Have you ever noticed the three numbers at the bottom of a <e1>fertilizer</e1> <e2>package</e2>?""",product-producer
+"""In addition to his reputation as a <e1>film</e1> <e2>maker</e2> Lehmuskallio is also known as an artist.""",product-producer
+"""Terrorists' <e1>aim</e1> is to influence presidential <e2>vote</e2>.""",theme_tool
+"""A pool with a sand <e1>beach</e1> is located inside the <e2>cave</e2>.""",content-container
+"""The <e1>headmaster</e1> made the formal <e2>announcement</e2>.""",product-producer
+"""The findings clearly show a high level of <e1>satisfaction</e1> from <e2>customers</e2> using new cutting-edge retail technology that has led to higher sales.""",cause-effect
+"""The <e1>video</e1> contains a <e2>clip</e2> from the movie.""",content-container
+"""<e1>Scientific progress</e1> comes from <e2>breakthroughs</e2> and breakthroughs by their very nature are unpredictable and surprising in their impact.""",cause-effect
+"""The <e1>port</e1> <e2>scanner</e2> is a utility to scan a system to get the status of the TCP.""",theme_tool
+"""Delay and procrastination set you up for <e1>frustration</e1> after <e2>frustration</e2>.""",cause-effect
+"""Temporal and spatial isotopic variations in the database are also useful for distinguishing the <e1>types</e1> of <e2>methane</e2> in subsurface natural gas exploration.""",part-whole
+"""The <e1>island</e1> was farmed for <e2>oats</e2> and barley until 1796 when the owner mandated that oak and alder trees be planted.""",product-producer
+"""Besides, the ink <e1>cartridge</e1> contained in the <e2>cartridge container</e2> is not working properly.""",part-whole
+"""But for the family that shares the cooking and clean up duties, the <e1>kitchen</e1> holds a special <e2>nuturing role</e2> beyond supplying nutrition for the physical body.""",content-container
+"""While Calvin is able to get the diamond, he's nearly caught by the police while making his getaway, and stashes the <e1>jewel</e1> in a <e2>bag</e2> carried by a passerby.""",content-container
+"""Using a small sharp <e1>knife</e1>, we cut the <e2>vanilla bean</e2> in half.""",instrument-agency
+"""The predominant <e1>approach</e1> is to select one or two primary <e2>languages</e2> and use them for the company-wide features and content.""",theme_tool
+"""Points attached with caps are simply slid snugly over the <e1>end</e1> of the <e2>shaft</e2>.""",part-whole
+"""Special construction and a <e1>rubberized trim</e1> helps the <e2>handset</e2> stand up to everyday wear-and-tear, and even occasional dropping.""",instrument-agency
+"""Until last year, Afghanistan was known as an <e1>opium</e1> <e2>exporter</e2>, not a major heroin producer.""",product-producer
+"""The more samples (and therefore means) from the population one takes, the better the <e1>population estimate</e1> is from the <e2>sampling distribution</e2>.""",origin-entity
+"""Different from the curry source, <e1>chicken bouillon</e1> is mainly distilled from <e2>chicken</e2>.""",origin-entity
+"""The <e1>first quote</e1> is from the Ginger Meggs <e2>cartoon</e2>.""",origin-entity
+"""Technical peeves aside, the <e1>value</e1> of the Semantic Web is to solve real <e2>problems</e2> in communication.""",theme_tool
+"""They understand the <e1>stakes</e1> from a <e2>personal perspective</e2>, as well, since the extremists have tried to assassinate them.""",origin-entity
+"""This led them to believe the <e1>eviction</e1> was for private <e2>development</e2>.""",theme_tool
+"""I believe that unless we take this issue seriously, the red squirrel is facing eventual <e1>extinction</e1> from the <e2>woods</e2> of Scotland.""",cause-effect
+"""The <e1>bowl</e1> contained <e2>apples</e2>, pears, and oranges.""",content-container
+"""An amazing thing about this paper is that Professor Gulan added an <e1>end note</e1> to the <e2>paper</e2> explaining that it was randomly generated by SCIgen.""",part-whole
+"""If governments were once content to passively realize the <e1>benefits</e1> from <e2>funding basic research</e2>, the determination to be part of the knowledge-based economy has driven OECD countries to extract greater direct benefits from publicly funded research.""",cause-effect
+"""It is likely that the <e1>nausea</e1> comes from <e2>abnormal sensations</e2> originating from areas of the brain that are sensing the lack of oxygen.""",cause-effect
+"""Monica Mullikin ('00) is working for Willis of Minneapolis as a catastrophe risk analyst for this <e1>reinsurance</e1> <e2>company</e2>.""",product-producer
+"""The <e1>physician bill</e1> is from the <e2>physician</e2> who provided your care during your hospital stay or the physician who read and interpreted your test results.""",origin-entity
+"""Within the last decade, <e1>biology</e1> joined the <e2>club</e2>, following the traditions for providing a solid foundation of scientific investigation.""",part-whole

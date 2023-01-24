@@ -1,0 +1,883 @@
+text,label
+"""Most of the <e1>steam</e1> comes from a volcano's <e2>magma</e2>.""",product-producer
+"""The <e1>cabin passengers</e1> composed the <e2>elite</e2> -- the créme de la créme.""",product-producer
+"""Well, this <e1>footballer</e1> kicked the <e2>ball</e2> the hardest he could and hit me.""",instrument-agency
+"""<e1>Germanium</e1> is found in <e2>germanite</e2>, argyrodite, and some zinc ores.""",part-whole
+"""Craig expressed his <e1>frustration</e1> after Monday's <e2>meeting</e2>.""",cause-effect
+"""The mesopause separates the <e1>mesosphere</e1> from the <e2>thermosphere</e2>.""",origin-entity
+"""And she added a <e1>question mark</e1> to complete the <e2>paragraph</e2>.""",part-whole
+"""I am installing lights under the <e1>cabinets</e1> in my <e2>kitchen</e2>.""",content-container
+"""Put <e1>tea</e1> in a <e2>heat-resistant jug</e2> and add the boiling water.""",content-container
+"""These images were acquired by MSSS cameras and include <e1>thousands</e1> of <e2>pictures</e2> from Mars Global Surveyor.""",part-whole
+"""Then something caught the man's <e1>eye</e1> just above the <e2>clouds</e2>.""",part-whole
+"""Like normal 'Simon' games, it starts with a one digit sequence, and then increases indefinitely until the <e1>caller</e1> makes a <e2>mistake</e2>.""",product-producer
+"""A White House <e1>usher</e1> prepares the <e2>blue room</e2> for a luncheon for the European Commission.""",product-producer
+"""Because the ice in the smoothie has to be crushed and blended with the other ingredients, a <e1>smoothie</e1> <e2>maker</e2> is usually the appliance of choice.""",product-producer
+"""According to Staten, the company's <e1>storage strategy</e1> is derived from customer's <e2>needs</e2>.""",product-producer
+"""The <e1>patient</e1> literally sawed it in half using a hard <e2>toothbrush</e2> over a period of many years.""",instrument-agency
+"""The hyperlink is coded so that the <e1>text</e1> <e2>description</e2> is a full URL.""",theme_tool
+"""There was a persistent rumor that the contents of the <e1>cornerstone</e1> included a <e2>liquor bottle</e2> that would have had 49 years to age.""",content-container
+"""The <e1>fruit basket</e1> contained <e2>apples</e2>, oranges and bananas.""",content-container
+"""The viewer looks through an <e1>eyehole</e1> in the <e2>metal box</e2> into the abyss, an infinite regression/progression of mirrors reflecting themselves.""",content-container
+"""<e1>Inhibition</e1> through <e2>synaptic depression</e2> is unlike the previous forms of inhibition in that it turns on more slowly and thus acts as delayed negative feedback.""",cause-effect
+"""Rather, the <e1>entrails</e1> contained mostly <e2>apples</e2> and corn.""",content-container
+"""Unlike a <e1>hard-copy</e1> <e2>book</e2> (at an even higher price), this one purchase ensures you will be up to date with all future releases of the electronic book.""",origin-entity
+"""The <e1>energy</e1> of emission produces the <e2>separation field</e2>.""",product-producer
+"""Beginning in 1966-67, the <e1>club</e1> made the <e2>playoffs</e2> nine consecutive seasons, the only NHL team of the period to accomplish that feat.""",product-producer
+"""<e1>Judges</e1> wear the bench <e2>wig</e2> when they are sitting in court.""",instrument-agency
+"""The <e1>library</e1> contained <e2>books</e2> of guidance on the processes.""",content-container
+"""The typical <e1>flu infection</e1> starts with <e2>fever</e2>, muscular pains, headache and general fatigue.""",cause-effect
+"""Is there anything like <e1>peanut butter</e1> but not high in <e2>calories</e2>?""",part-whole
+"""A goal is like a mountain outcropping to which a <e1>climber</e1> throws a <e2>grappling hook</e2> and pulls themselves up.""",instrument-agency
+"""I was trained as a <e1>violin</e1> <e2>maker</e2>, over 20 years ago, and have built violins (baroque and classical), violas, cellos, viols da gamba, and viols d'amore.""",product-producer
+"""Because of the Depression the original design was cut back significantly, but the <e1>building</e1> contained a number of unique <e2>architectural features</e2>.""",content-container
+"""This <e1>manual</e1> is for the serious <e2>user</e2> of the GNU Image Manipulation Program.""",theme_tool
+"""He went on to examine the <e1>theory</e1> from a <e2>risk assessment perspective</e2>.""",origin-entity
+"""Retailers have done their bit to put <e1>wine</e1> in the <e2>hands</e2> of the masses, to make it more accessible to the wider UK public, and there is little more that they can do in this regard.""",content-container
+"""For projects submitted at national level, the <e1>volunteer</e1> is sent by a <e2>sending organization</e2> legally established in his/her country of residence.""",origin-entity
+"""When the first transplant took place at St. Paul's in 1986, the vast majority of <e1>patients</e1> received a new <e2>kidney</e2> from a deceased donor.""",part-whole
+"""Mathematical <e1>talent</e1> is a combination of <e2>ingenuity</e2>, insight, creativity, the willingness to experiment, and persistence.""",part-whole
+"""Recruiting <e1>talented computer scientists</e1> from <e2>underrepresented communities</e2> is important to current and future workforce needs of the Computation Directorate as well as the Laboratory as a whole.""",origin-entity
+"""If you follow the instructions you should be able to remove the <e1>virus</e1> from <e2>infected documents</e2>.""",part-whole
+"""The fascinating aspect of therapeutic riding is that the <e1>rider</e1> sitting astride a <e2>horse</e2> walking establishes what is a perfect walking gait for the human.""",instrument-agency
+"""After all the <e1>color</e1> <e2>spots</e2> on the filter paper have dried, go back and repeat the process with the toothpicks to get more color on each spot.""",part-whole
+"""The soft brown and beige <e1>tones</e1> in the decoration provide a <e2>tranquil mood</e2>.""",product-producer
+"""<e1>Driving</e1> with <e2>sleep deprivation</e2> can have similar effects as driving under the influence.""",cause-effect
+"""Tim Boyle (1846) checks a <e1>flask</e1> that contains the dried cathode precursor <e2>powder</e2>.""",content-container
+"""The <e1>gavel</e1> helps the <e2>judge</e2> establish his or her rule over the court room.""",instrument-agency
+"""She spread a cream wax, applied strips (the <e1>spa</e1> uses a stripless <e2>wax</e2> for the bikini), and removed them with such agility that we barely flinched.""",instrument-agency
+"""People who work in mines may be exposed to radon and, in some parts of the country, <e1>radon</e1> is found in <e2>houses</e2>.""",part-whole
+"""Does the black spot on your <e1>labrador</e1>'s <e2>tongue</e2> mean he's really a Chow mix?""",part-whole
+"""Suddenly a <e1>nurse</e1> takes off <e2>her familiar loose-fitting clothes</e2>, and dresses her in clothes, which fit her more closely.""",origin-entity
+"""Originally, the typewriter sales companies sold the <e1>typist</e1> with the <e2>typewriter</e2>.""",instrument-agency
+"""Elisabetta Valtz Fino writes interestingly on the <e1>contents</e1> of <e2>gallery</e2> XVI of the Museum, home to finds from the Seleucid period, named after Seleucus.""",part-whole
+"""Virtually all hillside farmers grow maize during both seasons, and many of the <e1>farmers</e1> cultivate <e2>beans</e2>, rice, and other crops as well.""",product-producer
+"""The <e1>homes</e1> are from a <e2>simpler time</e2>, when closets were tiny and bathrooms were few, but the woodwork and stonework are inspiring.""",origin-entity
+"""The <e1>climber</e1> had a <e2>hook</e2> in each hand.""",instrument-agency
+"""The <e1>table</e1> is used for <e2>layout</e2>, and does not use any structural markup for the purpose of visual formatting.""",theme_tool
+"""Mayor has a <e1>proposal</e1> for a Suffolk <e2>campus</e2>.""",theme_tool
+"""These vocabularies can be mixed in individual RDF documents or data stores, allowing <e1>aggregation</e1> of <e2>descriptions</e2> from all available terminologies.""",part-whole
+"""On this oval porthole, a lace <e1>drape</e1> keeps the <e2>bathroom</e2> private while showing off the shapely window and letting in light.""",instrument-agency
+"""These early Bristol recordings laid the groundwork for much of the <e1>country</e1> <e2>music</e2> that followed.""",origin-entity
+"""In addition to the preparation of the road condition report, the <e1>police</e1> <e2>dispatchers</e2> are responsible for several other critical functions.""",part-whole
+"""The <e1>booby trap</e1> Puller stepped on was made with a <e2>howitzer shell</e2>.""",instrument-agency
+"""Prince Edward Island submitted a design with a <e1>garland</e1> of <e2>roses</e2> and shamrock.""",part-whole
+"""We know this <e1>telecommunications</e1> <e2>company</e2>.""",product-producer
+"""These functions were designed to steal a reference because of a common <e1>idiom</e1> for populating a <e2>tuple</e2> or list with newly created objects.""",theme_tool
+"""It is no justification that the <e1>defamation</e1> comes from a <e2>bishop</e2>.""",product-producer
+"""We're always looking for <e1>feedback</e1> from <e2>readers</e2> and articles to highlight.""",origin-entity
+"""For heart health, <e1>margarine</e1> is low in <e2>saturated fat</e2>.""",part-whole
+"""On the other hand, <e1>gin</e1> is distilled from a <e2>neutral grain spirit</e2>, which is then infused with juniper and a host of other botanicals.""",origin-entity
+"""The Museum exhibits major <e1>collections</e1> of <e2>antiquities</e2> from Egypt.""",part-whole
+"""The remarkably comprehensive 32-page 2004 Memorandum of Understanding prohibited the <e1>candidates</e1> from <e2>questioning</e2> each other, limited rebuttals to a mere 30 seconds, barred direct follow-up questions and entirely prohibited surrebuttals.""",origin-entity
+"""Another <e1>reason</e1> is to get extremely high energy <e2>densities</e2> in collisions of matter and antimatter.""",theme_tool
+"""The <e1>building</e1> contained <e2>laboratory facilities</e2> for conducting spectrochemical, chemical, and mass spectrometric analyses.""",content-container
+"""In each <e1>house</e1> lives a <e2>person</e2> with a different nationality.""",content-container
+"""<e1>Police officer</e1> uses a ""Taser"" <e2>stun gun</e2> to subdue a glass-wielding six-year-old.""",instrument-agency
+"""The only part left from the <e1>default design</e1> was the <e2>top blue border line</e2> of the title frame.""",part-whole
+"""The <e1>bomb</e1> was contained in a <e2>suitcase</e2> and was planted by two men.""",content-container
+"""Tub drains clog up with hair and the <e1>grease</e1> from <e2>soap</e2> and must be cleaned out occasionally.""",cause-effect
+"""The latest polls earlier this year showed that 87% of Iraqis support a <e1>request</e1> for setting a <e2>timetable</e2> for pulling out the occupation troops.""",theme_tool
+"""The <e1>tailor</e1> left his <e2>scissors</e2> on a wall below his balcony.""",instrument-agency
+"""Digital computers actually execute numerical instructions: bitstrings that contain information in the 'native' <e1>language</e1> created by the machine's <e2>designers</e2>.""",product-producer
+"""Gates varied in width because there are 25 different <e1>widths</e1> of <e2>walkways</e2> in Central Park.""",part-whole
+"""The <e1>mallet</e1> would be held in one hand with the <e2>chisel</e2> touching the wood in the other.""",instrument-agency
+"""And we do recommend excersise, as the <e1>kitchen</e1> holds <e2>culinary temptations</e2> in store for you that are bound to prolong your evening and lift your spirit.""",content-container
+"""The <e1>following advice</e1> is distilled from <e2>builders</e2> and first-hand experience.""",origin-entity
+"""Kids love watching the stages of <e1>growth</e1> from <e2>caterpillar</e2> to cocoon to butterfly in this easy reliable kit.""",cause-effect
+"""The main cell types are fibroblasts, macrophages and adipocytes (the <e1>hypodermis</e1> contains 50% of <e2>body fat</e2>).""",content-container
+"""Fruit juice has all the <e1>fruit</e1> <e2>sugar</e2> and none of the fruit fiber, and only some of the fruit nutrients.""",origin-entity
+"""Original <e1>works</e1> of <e2>authorship</e2> were fixed in a tangible medium of expression.""",part-whole
+"""Like many recipes for stuffing, the original <e1>recipe</e1> contained <e2>apples</e2>, but as apples are a higher carb fruit, I have substituted cranberries which have the dual effect of making the stuffing lower carb than the regular recipe and also adding a little extra seasonal color and flavor.""",content-container
+"""A <e1>car battery</e1> powered a <e2>laptop computer</e2> connected to a small, portable satellite antenna.""",instrument-agency
+"""The <e1>land</e1> was farmed for <e2>olives</e2> and a few other crops.""",product-producer
+"""The <e1>video sequence</e1> is from the <e2>movie</e2> 'Forrest Gump'.""",origin-entity
+"""With these axioms, the <e1>judges</e1> cultivated the <e2>principles</e2> of judgment, and those principles could be used in gauging the restrictions on freedom that were justified or unjustified, in any domain of the law.""",product-producer
+"""You should place the awl or <e1>screwdriver</e1> underneath the <e2>hinge</e2>, with the pointy end touching the end of the bolt or screw.""",instrument-agency
+"""Most people will use a <e1>paddle</e1> to propel their <e2>canoe</e2>.""",instrument-agency
+"""Once the <e1>photon</e1> was inside the <e2>cloud</e2>, the control beam was switched off, allowing the photon to come to a halt inside the dense ensemble of atoms.""",content-container
+"""The mountains of the peninsula can receive substantial rains and periodically, large <e1>amounts</e1> of <e2>water</e2> are washed down the river beds.""",part-whole
+"""Thatch is caused by <e1>excessive growth</e1> from <e2>overfertilizing</e2>, by allowing the grass to get too high before mowing, or by incorrect watering.""",cause-effect
+"""Eight rooms surround a central square <e1>room</e1> that contains the mortal <e2>remains</e2> of Bibi Pari.""",content-container
+"""Women may experience <e1>anxiety</e1> from the <e2>time</e2> they first learn about the breast abnormality.""",cause-effect
+"""If you are cleaning a <e1>coffee</e1> <e2>maker</e2> that hasn't been cleaned regularly, repeat this step again with a fresh vinegar and water mixture.""",product-producer
+"""During periods of wide <e1>blood sugar fluctuations</e1> and after any <e2>change</e2> in insulin dose, the blood sugar must also be measured during the night.""",cause-effect
+"""Unless the public authority knows that the <e1>applicant</e1> has used a <e2>pseudonym</e2>, it will be difficult to refuse a request on that ground.""",instrument-agency
+"""Anthony finds inspiration in a beautiful, enigmatic older woman who teaches him to follow his heart and find <e1>happiness</e1> through <e2>swing dancing</e2>.""",cause-effect
+"""It is set in a future in which the <e1>oceans</e1> are farmed for <e2>food</e2>.""",product-producer
+"""Rattles also wear out or break off, so it is unusual to find an adult <e1>snake</e1> with 10 <e2>rattles</e2>.""",part-whole
+"""Located near the equator in South America, the <e1>cocoa tree</e1> produces <e2>cocoa beans</e2>, the source of all chocolate.""",product-producer
+"""The book is about HOW the <e1>bomb</e1> was used in <e2>diplomacy</e2>.""",instrument-agency
+"""The <e1>audition</e1> was for a small <e2>part</e2> in Where the Heart Is.""",theme_tool
+"""At normal room temperatures, <e1>flammable liquids</e1> can give off enough <e2>vapour</e2> to form burnable mixtures with air.""",cause-effect
+"""The Wal-Mart Supercenter plans to employ as many as 455 associates, including 180 planned new <e1>jobs</e1> created by the <e2>relocation</e2>.""",product-producer
+"""Details of <e1>today</e1>'s <e2>bills</e2> can be found on the Order of Business page.""",part-whole
+"""At that point the <e1>patient</e1> grabbed the arm of the dentist to forcibly pull the <e2>drill</e2> out of his mouth.""",instrument-agency
+"""The Cleveland Cavaliers envision an <e1>arena</e1> full of cheering <e2>fans</e2> with no tickets in their pockets.""",part-whole
+"""I am still amazed just how deep and loud it can get with certain soundtracks and songs, literally making things bounce off the <e1>walls</e1> in my <e2>house</e2>.""",content-container
+"""One potential problem which comes to mind upon seeing the two-inch <e1>carpet</e1> of <e2>dust</e2> covering lower Manhattan is, of course, exposure to asbestos.""",part-whole
+"""Due to the large <e1>mass</e1> of the <e2>books</e2>, the force of the hammer is sufficiently resisted (inertia).""",part-whole
+"""It's unfortunate you didn't try a <e1>potato</e1> <e2>vodka</e2>.""",origin-entity
+"""The total contents of the <e1>purse</e1> included a <e2>cell phone</e2> and wallet valued at $120.""",content-container
+"""This is a gravity assist or a <e1>swingby</e1> for a <e2>spacecraft</e2>.""",theme_tool
+"""Requesting a lock on a resource requires contacting the <e1>server</e1> responsible for granting the <e2>lock</e2>.""",theme_tool
+"""PHY 319 is presently taught in three 50-minute lectures per week in which the <e1>instructor</e1> makes a <e2>chalkboard presentation</e2>.""",product-producer
+"""The <e1>formula</e1> for calculating the top rated 250 <e2>titles</e2> gives a true Bayesian estimate.""",theme_tool
+"""The Group's influence was so widespread by the end of 1931 that they no longer found it necessary to continue as a <e1>group</e1> of <e2>painters</e2>.""",part-whole
+"""From our point of view, the <e1>moral outrage</e1> over Manet's <e2>painting</e2> seems hypocritical, if not utterly inexplicable.""",cause-effect
+"""A very robust metal hydride discovery <e1>approach</e1> was made with a demonstrated HTS <e2>methodology</e2>.""",instrument-agency
+"""The <e1>above advertisement</e1> is from the <e2>server provider</e2> not from me.""",origin-entity
+"""The <e1>man</e1> radiated <e2>jolliness</e2>.""",origin-entity
+"""The original <e1>engine</e1> powered a limited-production Mustang <e2>model</e2> sold for two years.""",instrument-agency
+"""Why are the <e1>cell</e1> <e2>phones</e2> developing this much fast among the people?""",part-whole
+"""If the <e1>notice</e1> is sent by <e2>fax</e2>, the notice is not deemed received until 3 days after faxing it.""",origin-entity
+"""<e1>Habitat degradation</e1> from within <e2>stream channels</e2>, loss of riparian vegetation, and reductions in water quality degrade and also limit the population.""",cause-effect
+"""And the whale was short in front of the big <e1>crowd</e1> of <e2>tourists</e2>.""",part-whole
+"""To that end the <e1>faculty</e1> collaboratively designed the credential, certificate, and degree <e2>programs</e2> to provide you with a sequence of coursework and field experiences that prepares you to not only act like teachers, counselors and administrators, but to think like them as well.""",product-producer
+"""Aromatherapy can be used for <e1>stress relief</e1> through <e2>massage</e2> with sedatives like lavender and sweet marjoram.""",cause-effect
+"""He derives great joy and <e1>happiness</e1> from <e2>cycling</e2>.""",cause-effect
+"""He caught her <e1>arm</e1> just above the <e2>wrist</e2>.""",part-whole
+"""Orpheus falls in love with the <e1>country</e1> <e2>girl</e2> for no apparent reason save her name and beauty.""",origin-entity
+"""Put the <e1>peels</e1> in a different <e2>sack</e2>.""",content-container
+"""A <e1>moat</e1> keeps the <e2>enemy</e2> at bay.""",instrument-agency
+"""In a departure from previous liftoffs, ground and aircraft cameras monitored Discovery for possible <e1>damage</e1> from falling <e2>debris</e2>.""",cause-effect
+"""This means that only the <e1>copyright</e1> <e2>holders</e2> are empowered to act against violations.""",part-whole
+"""Polar bears and hippos have joined the ranks of species threatened with <e1>extinction</e1> from <e2>climate change</e2>, unregulated hunting and other dangers created by humans.""",cause-effect
+"""This <e1>view</e1> from the inside is from the <e2>bridge</e2> that spans Atherton Street.""",origin-entity
+"""The story not only put <e1>wine</e1> in a <e2>positive health light</e2>, but pointed out that it was superior to other foods in that particular regard.""",content-container
+"""In the event of an <e1>evacuation</e1> after normal <e2>business hours</e2>, the on-duty Security Officer and maintenance personnel will be responsible for the notification and evacuation of occupants of all buildings.""",cause-effect
+"""Deposits grew 20% with particularly good <e1>growth</e1> from <e2>corporates</e2>.""",cause-effect
+"""The <e1>rain</e1> begets the <e2>food</e2> we eat.""",product-producer
+"""Two years ago, President George W. Bush ordered the <e1>activation</e1> by the <e2>end</e2> of of a system capable of defending the United States against a missile attack by a terrorist group or an unfriendly rogue state such as North Korea.""",cause-effect
+"""Someone once said that <e1>progress</e1> comes from <e2>dissatisfaction</e2>.""",cause-effect
+"""Apparantly you think two wrongs can make a right, but that doesn't help the starving people of Zimbabwe, who were previously not starving due to the <e1>land</e1> being farmed for <e2>profit</e2> instead of used as political gifts.""",product-producer
+"""We kept the <e1>antenna</e1> inside the <e2>car</e2>, which limited range due to the car's attenuation.""",content-container
+"""The <e1>bag</e1> contained <e2>books</e2>, a cell phone and notepads, but no explosives.""",content-container
+"""Cuban <e1>ballplayers</e1> wield a bigger <e2>policy bat</e2>.""",instrument-agency
+"""The <e1>river</e1> once powered a <e2>gristmill</e2>.""",instrument-agency
+"""In fact, nobody received a <e1>drinking</e1> <e2>injury</e2> the whole weekend.""",cause-effect
+"""Six glowing disks await <e1>activation</e1> by the <e2>footsteps</e2> of desert wanderers.""",cause-effect
+"""Chinese liquor is a kind of <e1>wine</e1> produced by <e2>solidified fermentation</e2> of grain.""",product-producer
+"""To get a perfect <e1>rowing stroke</e1> the <e2>oar</e2> can't have too much forward pitch or it will dive.""",instrument-agency
+"""In my tests with a final engineering prototype, Scooba generally did a fine job cleaning the <e1>linoleum</e1> in my <e2>kitchen</e2> after my 2-year-old daughter's birthday party.""",content-container
+"""A focus on convenience and knowledgeable service has enabled the 4,600-store chain to stake out a modest but healthy share of the huge hardware market, providing the <e1>impetus</e1> for the biggest new-store <e2>expansion</e2> in its history.""",theme_tool
+"""If you have any questions concerning the <e1>information</e1> in the <e2>Guidelines</e2>, contact the secretary.""",part-whole
+"""This teaches that the <e1>body</e1> is procreated by the <e2>parents</e2> and the soul and spirit are directly created by God and placed in the body.""",product-producer
+"""The <e1>sledgehammer</e1> can apply more <e2>impulse</e2> than other hammers due to its large size.""",instrument-agency
+"""Such airships are essentially motorized free balloons and the <e1>engines</e1> are carried in a <e2>car</e2> attached to the lower side or bottom of the bag.""",content-container
+"""It has long been thought that the <e1>crypt</e1> contained the <e2>tomb</e2> of St Paul but the altar had hidden it.""",content-container
+"""We actually put <e1>tea</e1> in the <e2>food</e2> whenever possible.""",content-container
+"""The lower portion of the <e1>building</e1> contained hundreds of <e2>storage rooms</e2>.""",content-container
+"""The <e1>electricity</e1> is produced by 440 nuclear <e2>reactors</e2> in 31 countries.""",product-producer
+"""During discussion of the legislation concerns, were raised that the inclusion of <e1>protection</e1> from <e2>exposure</e2> to the sun would place too heavy a burden on a number of smaller companies, especially building firms and small catering concerns, which may have a lot of outside workers.""",cause-effect
+"""This shows Wikipedia's <e1>almanac</e1> of <e2>events</e2> for the current year.""",part-whole
+"""The troubled company is still feeling <e1>aftershocks</e1> after its devastating <e2>withdrawal</e2> of the pain medication Vioxx six months ago.""",cause-effect
+"""When the power goes, the <e1>dentist</e1> quizzically raises the <e2>drill</e2>, and examines it.""",instrument-agency
+"""The <e1>submission</e1> <e2>deadline</e2> is February, 2, 2007.""",theme_tool
+"""I'm the <e1>decision</e1> <e2>maker</e2>, and I had to come up with a way forward that precluded disaster.""",product-producer
+"""How can I get rid of the <e1>ants</e1> in my <e2>kitchen</e2> without using dangerous pesticides?""",content-container
+"""The provisions of the <e1>proposal</e1> for a <e2>directive</e2> also run counter to the case.""",theme_tool
+"""Short-term disability and long-term <e1>disability</e1> <e2>benefits</e2> are available at no cost to USTelecom employees.""",origin-entity
+"""It often becomes necessary to delete <e1>objects</e1> from the <e2>chart</e2> during the course of monitoring system performance.""",origin-entity
+"""A couple of spoonsful would have been mixed with water to create a sweet and tart drink, the <e1>fruit</e1> providing the flavor and <e2>color</e2>, the sugar providing the sweetness, and the vinegar providing the tartness.""",origin-entity
+"""The <e1>box</e1> includes <e2>care instructions</e2>, and the bouquet is ready to be arranged in the accompanying vase.""",part-whole
+"""<e1>Energy expenditure</e1> through <e2>physical activity</e2> is a key component in the prevention and treatment of overweight and obesity.""",cause-effect
+"""This reservoir is thought to be the heat source for the Geysers geothermal field (on the southwest <e1>side</e1> of the <e2>volcanic field</e2>).""",part-whole
+"""The <e1>micropump</e1> is fabricated by the <e2>anisotropic etching</e2>, the boron diffusion and the metal evaporation.""",product-producer
+"""Unlike earlier machines, their <e1>typewriter</e1> permits the <e2>typist</e2> to see what is being typed and has other features that make it the first really practical typing machine.""",instrument-agency
+"""Retailers should report the income from a coupon's face value and its related handling fee at the time the <e1>coupon</e1> is received from the <e2>customer</e2>.""",origin-entity
+"""There was another sign below that showing a man's <e1>head</e1> in <e2>silhouette</e2>, painted a bright yellow.""",part-whole
+"""The <e1>kitchen</e1> contained primarily <e2>drug paraphernalia</e2>.""",content-container
+"""When the <e1>decision</e1> of the CAMPEP is for continued <e2>accreditation</e2>, the program director is notified in a letter that includes all suggestions.""",theme_tool
+"""Showing a sample of a fertilizer package this <e1>fertilizer</e1> <e2>company</e2> shows what to look for on their label.""",product-producer
+"""The <e1>intent</e1> of the fourteenth amendment was to protect all <e2>rights</e2>.""",theme_tool
+"""The <e1>kitchen</e1> contained a large <e2>stove</e2>, a sink, a small table with chairs, and an old sofa that had seen many children and grandchildren tear at its skin.""",content-container
+"""The <e1>experimenters</e1> designed the <e2>shape</e2> and size of the enlarged fiber ends so they don't experience the stresses that usually snap fibers and limit a short-fiber composite's performance.""",product-producer
+"""The satisfaction was complete - please find below a <e1>statement</e1> from the <e2>producer</e2>.""",product-producer
+"""The <e1>gavel</e1> banged and the <e2>judge</e2> would have sent him back to jail.""",instrument-agency
+"""The <e1>ancients</e1> cultivated the <e2>species</e2> 'Heracleum Sphondylium' which is the parsnip a similar plant to carrots.""",product-producer
+"""DOE's program is to improve current methods for producing <e1>hydrogen</e1> from <e2>coal</e2>.""",part-whole
+"""The commission merely implements the contracts, shielding the <e1>major party candidates</e1> from <e2>public criticism</e2>.""",origin-entity
+"""Interestingly, the <e1>sink</e1> was inside the <e2>room</e2>.""",content-container
+"""A tokamak is a toroidal (doughnut shape) <e1>magnetic bottle</e1> that contains the <e2>fusion plasma</e2>.""",content-container
+"""It was also felt necessary at this time to draw up a similar document, dealing not with the prevention of <e1>marine pollution</e1> by <e2>dumping</e2>, but instead with the prevention of marine pollution by discharges of dangerous substances from land-based sources, watercourses or pipelines.""",cause-effect
+"""The <e1>lawn mower</e1> cuts a <e2>swath</e2> of grass as it moves across the lawn.""",instrument-agency
+"""Then, in May, 2005, the <e1>government</e1> produced the <e2>factual return</e2>, as ordered by the District Court.""",product-producer
+"""The <e1>cathode</e1> emits <e2>electrons</e2>.""",product-producer
+"""And now let's look at the other <e1>side</e1> of the <e2>story</e2>.""",part-whole
+"""Other non-native species used in aquaculture are brook trout (Salvelinus fontinalis) and lake trout (Salvelinus namaycush), <e1>fishes</e1> that mainly has been farmed for <e2>stocking purposes</e2>.""",product-producer
+"""To test this, we placed a kitchen <e1>match</e1> in the <e2>jar</e2> instead of the candle, lit the match, screwed on the lid and dropped the jar.""",content-container
+"""The lab added Hypo-allergenic plant <e1>fiber</e1> to complete the <e2>capsule volume requirement</e2>.""",part-whole
+"""<e1>Tyramine</e1> is found in <e2>aged, fermented and spoiled food products</e2>.""",part-whole
+"""A <e1>dining room</e1> that contains direct <e2>access</e2> from the kitchen is the most practical, unless the room will exist for fluff purposes only.""",content-container
+"""The <e1>workshop</e1> is for all <e2>people</e2> involved in the management of institutional Web services.""",theme_tool
+"""This would seem to suggest that Hizzoner is on the <e1>hunt</e1> for a new <e2>team</e2>.""",theme_tool
+"""About 2000 feet of <e1>passageways</e1> have been located inside the <e2>cave</e2>, and about half of that has been mapped.""",content-container
+"""I had told this <e1>headhunter</e1>'s <e2>company</e2> repeatedly that I was only interested in working in the Philadelphia area.""",product-producer
+"""EBSA protects the <e1>integrity</e1> of <e2>pensions</e2>, health plans, and other employee benefits for more than 150 million people.""",part-whole
+"""Vinegar's <e1>usefulness</e1> doesn't stop inside the <e2>house</e2>.""",content-container
+"""Data managers and vendors learned the value of sharing and reusing <e1>resources</e1> from a <e2>common repository</e2> decades ago.""",origin-entity
+"""Another good example of the importance of hormonal balance in the body is the <e1>growth hormone</e1> produced by the <e2>pituitary gland</e2>.""",product-producer
+"""In a nutshell, <e1>orienteering</e1> combines a <e2>physical skill</e2> with a more cerebral element.""",instrument-agency
+"""That's because nostalgia serves a useful defensive and reparative function; it took the <e1>sting</e1> from a <e2>painful episode</e2> in his life by shading the script.""",content-container
+"""The obvious <e1>solution</e1> was to standardize on Microsoft Office <e2>software</e2>.""",theme_tool
+"""Fourteen trades later, he made his stated goal, which was to trade a <e1>paperclip</e1> for a <e2>house</e2>.""",theme_tool
+"""The order reaches the office in minutes, allowing the order staff to start <e1>fulfillment</e1> from <e2>warehouse inventory</e2>.""",cause-effect
+"""This experiment is performed with an aqueous solution of a strong <e1>acid</e1> inside a <e2>flask</e2>.""",content-container
+"""In most part, it was another a <e1>plea</e1> for the <e2>status quo</e2> and also for patience.""",theme_tool
+"""The guarantees so painfully obtained by formal verification of the source program are useless if the <e1>compiler</e1> generates <e2>wrong code</e2>.""",origin-entity
+"""The <e1>catalogue</e1> contained <e2>books</e2> published in 1998 warning of the upcoming millennium bug and other similarly germane works, but neither of Brock's bestsellers.""",content-container
+"""They mirror to a large extent, but not entirely, those <e1>provisions</e1> contained in the European <e2>convention</e2> on human rights.""",part-whole
+"""<e1>Avocado</e1> <e2>butter</e2> is a very rich, moisturizing treatment for the hair and skin, and it has some natural sunscreen properties.""",origin-entity
+"""It is a motorized spherical mechanism that is designed to simulate the <e1>rowing motion</e1> of an <e2>oar</e2>.""",instrument-agency
+"""The production assistant is basically the <e1>guy</e1> who makes <e2>coffee</e2> and goes to the post office.""",product-producer
+"""Sadly I couldn't find any spectacular <e1>videos</e1> of <e2>superfluids</e2> in action.""",part-whole
+"""Any herb can be used in <e1>herb</e1> <e2>butter</e2>, but it is best to use bold flavors.""",origin-entity
+"""<e1>Supervision</e1> is received from a <e2>golf supervisor</e2>, who reviews work through conferences, reports, and results achieved.""",origin-entity
+"""The good friar was insistent on both celibacy and <e1>abstinence</e1> from <e2>laughter</e2>.""",cause-effect
+"""Contact the <e1>router</e1>'s <e2>manufacturer</e2> for assistance with configuration and proper setup of your wired router.""",product-producer
+"""It is a <e1>method</e1> for the comprehensive proteomic <e2>analysis</e2> of membrane proteins.""",theme_tool
+"""But Canadian intelligence agents had seen little in their two years of surveillance to indicate that the ""<e1>bunch</e1> of <e2>guys</e2>"" in Montreal posed a serious danger.""",part-whole
+"""<e1>Physician</e1> need only bring <e2>stethoscope</e2> and otoscope.""",instrument-agency
+"""The PI <e1>login</e1> is created by the <e2>administrator</e2>.""",product-producer
+"""The controlled environment <e1>facility</e1> is for <e2>growth</e2> of experimental material only.""",cause-effect
+"""Tou should use a <e1>screwdriver</e1> to tighten the <e2>bolt</e2> very tightly.""",instrument-agency
+"""Patient survival one year after transplantation from a living-related donor is 95% and comparably high if the <e1>organ</e1> comes from a cadaveric <e2>donor</e2>.""",product-producer
+"""Beauty had scarcely uttered these words when the <e1>castle</e1> radiated with <e2>light</e2>.""",origin-entity
+"""The <e1>kitchen</e1> holds patient <e2>drinks</e2> and snacks.""",content-container
+"""So you are not only sharing the speaker information, but you are also sharing the <e1>audio</e1> from the <e2>event</e2> quickly and easily.""",origin-entity
+"""The <e1>algorithm</e1> generates <e2>provable primes</e2> rather than only probable primes and is nevertheless faster than the known algorithms based on pseudo-primality.""",origin-entity
+"""The curricular requirements for an engineering degree can be satisfied in four years of study by completing 14 to 18 credits of work each semester, but many <e1>students</e1> deviate from the <e2>ideal curricula</e2> presented in a later section of this bulletin.""",origin-entity
+"""Saunders felt a resurgence of the <e1>panic</e1> from this <e2>morning</e2> when he'd regained consciousness in the minefield.""",cause-effect
+"""Contents of the <e1>scrapbooks</e1> included <e2>pictures</e2> cut from magazines and newspapers, stories, poems and anecdotes as well as photographs.""",content-container
+"""<e1>Picric acid</e1> is kept in an <e2>aqueous solution</e2>, which makes it suitable and safe to handle.""",content-container
+"""The Hargrett Rare Book and Manuscript Library at the University of Georgia maintains a <e1>collection</e1> of more than 800 <e2>historic maps</e2> spanning nearly 500 years.""",part-whole
+"""If the <e1>hydrogen</e1> comes from <e2>water</e2>, then electricity from any source can be used to electrolyze the water.""",product-producer
+"""The <e1>lady</e1> made the <e2>photocopies</e2>, pushed a few more keys on her computer, and shuffled some papers around.""",product-producer
+"""We suggest using a <e1>blog</e1> for a Web 2.0 <e2>presentation</e2> instead of PowerPoint.""",theme_tool
+"""Before the <e1>barber</e1> takes his <e2>scissors</e2> out, family, friends and rabbis take turns snipping.""",instrument-agency
+"""Then he planted his <e1>apple</e1> <e2>seeds</e2> in neat rows and built a brush fence around the area.""",part-whole
+"""'We think that the <e1>fat</e1> begets the <e2>insulin resistance</e2>, which helps produce risk factors for arteriosclerosis', he added.""",product-producer
+"""In summer 2000, an Adventist church in Polotsk, Vitebsk Region, was damaged by a <e1>fire</e1> started with <e2>flammable liquids</e2>.""",cause-effect
+"""These are the <e1>realities</e1> of <e2>racism</e2> in Britain.""",part-whole
+"""The <e1>objective</e1> of this tender is to provide a service <e2>contract</e2>.""",theme_tool
+"""The <e1>burning fuel</e1> produces <e2>exhaust gases</e2>, which, when forced out the nozzle, produce thrust, moving the rocket in the other direction.""",product-producer
+"""<e1>Depression</e1> after <e2>heart attack</e2> increases future risk.""",cause-effect
+"""First, the <e1>gift</e1> <e2>cards</e2> are on the thin side and are glossy.""",part-whole
+"""The discharge <e1>valve</e1> is kept in the <e2>closed position</e2> at all times unless the dike is deliberately being drained.""",content-container
+"""By capillary action, a thin line of blood will spread along the <e1>edge</e1> of the <e2>spreader</e2>.""",part-whole
+"""Interestingly, the <e1>gastritis</e1> is not found in <e2>wild cheetahs</e2>.""",part-whole
+"""We did a computer search for studies of <e1>vasectomies</e1> done without a <e2>scalpel</e2> versus with a scalpel.""",instrument-agency
+"""Do not use perchloric or <e1>hydrofluoric acid</e1> inside a <e2>fume hood</e2> unless the hood was specifically designed for its use.""",content-container
+"""On October 28, 2003, a <e1>worker</e1> was using a <e2>hammer</e2> to tap the arms of a truck's cabstand into a vertical position when the cabstand's arms collapsed in an unintended opposite direction causing the cab to slide off the stand onto the worker's arm.""",instrument-agency
+"""There are three set changes and two intervals which help the <e1>recovery</e1> from <e2>laughter</e2>, but the entertainment is maintained despite the well expected ending.""",cause-effect
+"""Eye <e1>discomfort</e1> from this <e2>staring effect</e2> is exacerbated by low humidity.""",cause-effect
+"""The <e1>weaver</e1> sits with a <e2>loom</e2> fixing the back strap, keeps her legs against the footrest, which is adjustable for keeping the loom in tension.""",instrument-agency
+"""It is a <e1>method</e1> for assessing the statistical <e2>significance</e2> of RNA folding.""",theme_tool
+"""It is commonly accepted that <e1>progress</e1> comes from <e2>science</e2>, debate, inference, logic and reasoning.""",cause-effect
+"""The <e1>artist</e1> who originally made the <e2>song</e2> popular is listed for reference only.""",product-producer
+"""The judge held that the circuit court did not err, in light of the fact that the <e1>conviction</e1> was for felony <e2>murder</e2>, and given the weight of eyewitness testimony.""",theme_tool
+"""The largest <e1>cutback</e1> was for <e2>projects</e2> in the Canadian region.""",theme_tool
+"""<e1>Surgery</e1> after <e2>radiation chemotherapy</e2> is an effective local treatment, which is able to significantly increase local tumor control compared to radiation chemotherapy only.""",cause-effect
+"""A gasoline <e1>engine</e1> powers a hydraulic drive <e2>train</e2> that provides torque at all six wheels.""",instrument-agency
+"""Ancient pagan traditions used <e1>famine</e1> following <e2>feast</e2> as a way of revealing truth.""",cause-effect
+"""The <e1>dose</e1> makes the <e2>poison</e2>.""",product-producer
+"""Most of the <e1>excitement</e1> came from the <e2>anticipation</e2> of winning a nice prize, all for the sum of one dollar.""",cause-effect
+"""Put the <e1>flour</e1> in a <e2>mixing bowl</e2>, and mix in the water a little at a time until you've got a dough.""",content-container
+"""The <e1>photoheliograph</e1> produced the <e2>glass-plate photographs</e2> on display in this exhibition gallery.""",product-producer
+"""The <e1>bytecodes</e1> compiled from a <e2>nonoptimized control structure</e2> are illustrated by the following hypothetical method in Collection.""",origin-entity
+"""He pushed a chunk of <e1>marble</e1> across the <e2>table</e2> towards her.""",part-whole
+"""<e1>Adults</e1> with <e2>sleep deprivation</e2> who listened to soft classical music at bedtime reported a percent improvement in their quality of sleep.""",cause-effect
+"""The <e1>watchmaker</e1> makes the <e2>watch</e2>, he winds it up, he sets it going, he is outside the process but he initiates the process, he sets the hands in motion.""",product-producer
+"""Touch sliding <e1>keyboard</e1> offers keyless <e2>typing</e2>.""",instrument-agency
+"""The research described in this thesis focuses on the analysis of extraterrestrial <e1>organic compounds</e1> present in <e2>carbonaceous meteorites</e2>.""",part-whole
+"""The <e1>surgeon</e1> cuts a small <e2>hole</e2> in the skull and lifts the edge of the brain to expose the nerve.""",instrument-agency
+"""The <e1>transmitter</e1> generates the <e2>electromagnetic wave</e2>, some of which will be incident on the receiver.""",origin-entity
+"""The report links conditions in some of the worst affected localities and the likelihood that dire poverty combined with despair and <e1>outrage</e1> over <e2>rampant corruption</e2>, repressive policies, and governments' failure to address local needs could lead to outbreaks of localised unrest with the potential to spread into a wider regional conflict.""",cause-effect
+"""The authors take us on an extraordinary journey, from the depths of the ocean to the <e1>net</e1> of a <e2>fisherman</e2>.""",instrument-agency
+"""Both parents should get a tax <e1>exemption</e1> for the <e2>children</e2>.""",theme_tool
+"""The <e1>taste</e1> is from the <e2>ginseng</e2>, not alcohol.""",origin-entity
+"""They will cast you out of the <e1>net</e1> like any <e2>fisherman</e2> looking for a certain fish.""",instrument-agency
+"""Harry Stanley, 46, from Hackney, East London, was shot and killed by Metropolitan Police officers who apparently had mistaken a <e1>chair-leg</e1> being carried in a <e2>plastic bag</e2> for a firearm.""",content-container
+"""The <e1>programming</e1> <e2>staff</e2> is responsible for developing agency wide policies.""",theme_tool
+"""When he was back he noticed that he had locked the <e1>keys</e1> inside the <e2>car</e2>.""",content-container
+"""The <e1>turn signal indicator</e1> inside the <e2>car</e2> was blinking erratically for the last month and someone recently explained that it meant the bulb had gone somewhere on the left.""",content-container
+"""Binary insertion sort <e1>algorithm</e1> is used for small <e2>lists</e2>.""",theme_tool
+"""Manila radio station DZMM quoted survivors as saying that the <e1>fire</e1> started with an <e2>explosion</e2> in the cargo hold and spread across the ship within minutes.""",cause-effect
+"""A <e1>process</e1> for obtaining a free research use <e2>license</e2> has been established through the University of Illinois Office of Technology Management.""",theme_tool
+"""The <e1>revocation</e1> was for <e2>failure</e2> to maintain regular business hours.""",theme_tool
+"""The resulting <e1>shockwaves</e1> produced the <e2>metal-forming conditions</e2> for periods of 100-200 ns.""",product-producer
+"""Taken in total, the <e1>case</e1> for prosecuting the former <e2>members</e2> of the Symbionese Liberation Army for taking Myrna Opsahl's life is irrefutable.""",theme_tool
+"""In zen, there is a strong relationship between <e1>work</e1> and <e2>food</e2>, for the former begets the latter.""",product-producer
+"""<e1>Yoga</e1> is fantastic for <e2>increased flexibility</e2>, which is great for cross-training with all the other programs we offer.""",cause-effect
+"""As the molten metal cools, it hardens and assumes the <e1>shape</e1> created by the mold's <e2>cavity</e2>.""",product-producer
+"""However, these animals are found in the intertidal zone, inside tide pools, where salinity can increase due to <e1>evaporation</e1> from <e2>exposure</e2> to intense sunshine, or decrease from heavy rainfall or fresh water runoffs.""",cause-effect
+"""A <e1>lodge</e1> combines a <e2>colonial atmosphere</e2> with the rustic beauty and history of Africa.""",instrument-agency
+"""This <e1>northshore</e1> <e2>company</e2> is looking for a dynamic transcriptionist who can take detailed notes from a meeting and document the next day!""",product-producer
+"""He brought the broken door inside the house, put it on the floor in the <e1>middle</e1> of the <e2>room</e2> and checked carefully the stains near the knob.""",part-whole
+"""Surrounding each neuron there was a group of cells of the glial type (satellite cells), which together with the <e1>collagen fibres</e1> composed the <e2>glial capsule</e2>.""",product-producer
+"""By capillary action, a thin <e1>line</e1> of <e2>blood</e2> will spread along the edge of the spreader.""",part-whole
+"""The <e1>place</e1> of <e2>women</e2> in today's Church will be explored at the conference.""",part-whole
+"""<e1>Trees</e1> grow <e2>seeds</e2>.""",product-producer
+"""A Justice Department lawyer may have been laying the <e1>groundwork</e1> for the Iraq <e2>invasion</e2> long before it was discussed publicly by the White House.""",theme_tool
+"""The Corel data set is relatively simple because the annotations are <e1>nouns</e1> selected from a <e2>relatively small vocabulary</e2>.""",origin-entity
+"""With five of the six classes being a single credit hour and the sixth being three credit hours of capstone design, sophomores, juniors, and seniors work directly with medical doctors, nurses, graduate students, Ph.D.'s, and <e1>engineers</e1> from the <e2>medical industry</e2>.""",origin-entity
+"""Many people think that <e1>foods</e1> with <e2>sugar alcohols</e2> are ""free foods"".""",part-whole
+"""Gurra Krantz, skipper of the still leading yacht SEB reports some <e1>frustration</e1> after <e2>yesterday's exhilarating rides</e2>.""",cause-effect
+"""The <e1>intent</e1> was for the occupying powers to govern the <e2>country</e2> together inside the 1947 borders.""",theme_tool
+"""Teens will find a realistic model for improving self-esteem, confronting challenges head on and the possibilities of <e1>achievement</e1> through <e2>perseverance</e2>.""",cause-effect
+"""The <e1>information</e1> on the recorded talks is kept in the <e2>database</e2>.""",content-container
+"""During this procedure, the <e1>surgeon</e1> makes a small <e2>hole</e2> (""fenestration"") in the baffle to help relieve the symptoms of the original heart disease.""",product-producer
+"""The <e1>plane</e1> makes a <e2>parabolic maneuver</e2>, much like a roller coaster with steep climbs and descents, that simulates zero gravity conditions.""",product-producer
+"""In converting a tree into thick planks, the <e1>saw</e1> causes a <e2>waste</e2> of a very small fractional part.""",instrument-agency
+"""<e1>Infection</e1> starts with <e2>manual execution</e2> of the binary.""",cause-effect
+"""The <e1>president</e1> used the <e2>pretext</e2> of ""national security"".""",instrument-agency
+"""It is a <e1>plugin</e1> for navigating the <e2>file system</e2>.""",theme_tool
+"""The <e1>interpretation</e1> was made using the Huynh-Feldt adjusted <e2>results</e2>.""",instrument-agency
+"""There exists a widespread <e1>controversy</e1> over <e2>stem cell research</e2> that emanates from the techniques used in the creation and usage of stem cells.""",cause-effect
+"""The randomized hypertensive ABCD study demonstrated a decrease in myocardial infarction with ACE inhibitors and a <e1>decrease</e1> in overall mortality with aggressive <e2>blood pressure control</e2>.""",cause-effect
+"""The event featured a demonstration of weaving on a <e1>loom</e1> by local <e2>weaver</e2> Nancy Alexander.""",instrument-agency
+"""The <e1>land</e1> was farmed for <e2>cattle</e2>, but segments of the forests were sold off and the chapel fell into disrepair.""",product-producer
+"""The <e1>patient</e1> had crushed a pencil with this <e2>toe</e2> about 30 years previously.""",instrument-agency
+"""I know another <e1>drinking</e1> <e2>accident</e2> happened in the Gallup area the other day, which is plagued by drinking and driving accidents.""",cause-effect
+"""So the inscription didn't name the <e1>pistol</e1>'s <e2>maker</e2>, or the artist who decorated it, or the year it was made.""",product-producer
+"""The <e1>following translation</e1> is from the <e2>website</e2> of Sanzinsoo.""",origin-entity
+"""<e1>Cinnamon oil</e1> is distilled from <e2>bark chips</e2> and used to alleviate stomach upsets.""",origin-entity
+"""To prevent <e1>students</e1> from <e2>informing</e2> their peers what questions are in the quiz, the questions are randomly selected from a large, pre-prepared question bank.""",origin-entity
+"""Declines of great gray owls in California may be due to <e1>habitat degradation</e1> from <e2>logging</e2>, grazing, and development.""",cause-effect
+"""Among the additional contents of the <e1>box</e1> were a <e2>controller</e2>, an audio/video connector, a plug, and quite a few manuals and booklets.""",content-container
+"""After the <e1>panel</e1> makes a <e2>recommendation</e2>, OraSure said it likely will formally apply to sell the test over-the-counter.""",product-producer
+"""To better follow the quality, the <e1>company</e1> manufactures itself the necessary <e2>fabrics</e2>, starting from the purchase of the yarn.""",product-producer
+"""Straight ahead you enter a nice sized <e1>living room</e1> that contains the front <e2>door</e2>.""",content-container
+"""There are four <e1>caverns</e1> located inside the <e2>cave</e2> with the tunnel heading west being the largest.""",content-container
+"""The period of <e1>tumor shrinkage</e1> after <e2>radiation therapy</e2> is often long and varied (mean months).""",cause-effect
+"""The <e1>tram</e1> makes the <e2>trip</e2> from the main university campus in less than 5 minutes, while driving can take 15 minutes or longer.""",product-producer
+"""How do I recognize a <e1>room</e1> that contains <e2>radioactive materials</e2>?""",content-container
+"""Has anyone insulated a stone foundation, <e1>dirt</e1> <e2>floor</e2> basement?""",part-whole
+"""The <e1>student</e1> shall provide a <e2>written request</e2>, mailed to the Executive Director of the Pacific Division.""",product-producer
+"""It is the <e1>blueprint</e1> for a design <e2>revolution</e2>.""",theme_tool
+"""The design of the shape of the can ends moreover has a marked effect on their ability to resist <e1>deformation</e1> from <e2>internal pressure</e2>.""",cause-effect
+"""Their chemical <e1>activation</e1> by <e2>light</e2> (halogen, plasma, lasers, etc.) enhances their efficiency by reducing exposure time and number of appointments.""",cause-effect
+"""The <e1>construction</e1> gives a <e2>refinement</e2> of Nori's argument in the case of a self-product of a curve.""",origin-entity
+"""This lamp can cause serious skin burn and <e1>eye inflammation</e1> from <e2>shortwave ultraviolet radiation</e2> if outer envelope of the lamp is broken or punctured.""",cause-effect
+"""The <e1>acid</e1> is kept in a level-controlled <e2>tank</e2> (with a controller and an alarm. in the event of low acid level).""",content-container
+"""The bran and the <e1>germ</e1> are nutrient-rich parts of the <e2>grain</e2> and thus whole grain products are far healthier than products made with white flour.""",part-whole
+"""Preliminary experiments [Nature (1994) 368, 315] seemed to support this idea in that the <e1>quenches</e1> produced the predicted high <e2>vortex-densities</e2>.""",product-producer
+"""In America, generations of Portuguese <e1>immigrants</e1> from the <e2>mainland</e2>, Azores and Madeira have brought their often-simple but diverse and always tasty cuisine.""",origin-entity
+"""Our water froze and <e1>batteries</e1> kept in <e2>pockets</e2> got cold.""",content-container
+"""The <e1>drill</e1> enables the <e2>dentist</e2> to accomplish these procedures quickly and reduces the trauma to oral tissues.""",instrument-agency
+"""Conference center has at least one dedicated main conference <e1>room</e1> that contains a minimum of 1,000 <e2>square feet</e2> and can accommodate flexible seating arrangements.""",content-container
+"""The <e1>domain</e1> is for <e2>sale</e2>.""",theme_tool
+"""They're always leaving their goddam bags out in the <e1>middle</e1> of the <e2>aisle</e2>.""",part-whole
+"""The authors found that the peak <e1>rowing force</e1> exerted on the <e2>oar blade</e2> increased slowly, but quadratically, with stroke rate.""",instrument-agency
+"""<e1>Cooperation</e1> through <e2>physical activity</e2> promotes important life skills.""",cause-effect
+"""How can you prove that a <e1>gas</e1> takes up <e2>space</e2>?""",origin-entity
+"""<e1>Taxi driver</e1> spotted stolen <e2>car</e2> shortly after police sent out an alert.""",instrument-agency
+"""One <e1>strategy</e1> for combating phishing is to train <e2>users</e2> to deal with phishing.""",theme_tool
+"""They discussed the impact of their critical meetings held in the wake of India's 1998 nuclear tests, ultimately laying the <e1>groundwork</e1> for the current <e2>movement</e2> to build a firm strategic relationship between India and the United States.""",theme_tool
+"""Examples include the <e1>exclusion</e1> of certain benefits from <e2>funding standards</e2> and the exclusion of entire plans from certain funding requirements.""",cause-effect
+"""The Global Warming <e1>segment</e1> starts off with two, cute <e2>anecdotes</e2> about flowers blooming early and aardvarks moving North.""",cause-effect
+"""Some inactivated influenza vaccine contains thimerosal, a <e1>preservative</e1> that contains <e2>mercury</e2>.""",content-container
+"""The third <e1>observation</e1> was made with the Echellette <e2>spectrograph</e2>.""",instrument-agency
+"""Many <e1>games</e1> can be played with Go <e2>equipment</e2>.""",instrument-agency
+"""The <e1>acts</e1> of terror the world has witnessed have welded a <e2>bond</e2> among freedom-loving nations.""",instrument-agency
+"""It is a parallel <e1>algorithm</e1> for reconfiguring a multibutterfly <e2>network</e2> with faulty switches.""",theme_tool
+"""The <e1>hairdresser</e1> took his <e2>scissors</e2> and held up a coil of hair.""",instrument-agency
+"""My <e1>sin</e1> was to write a <e2>screenplay</e2> accurately depicting Bill Clinton's record on terrorism. """,theme_tool
+"""There should be no <e1>revenue increase</e1> from the <e2>tax cuts</e2> - except possibly from the cuts in the higher tax rates.""",cause-effect
+"""Strikingly large in scale, this <e1>grater</e1> shaves a perfect <e2>portion</e2> in a single stroke.""",instrument-agency
+"""Yet the <e1>nomination</e1> was for original <e2>music</e2>.""",theme_tool
+"""A <e1>man</e1> struck my video camera with a <e2>hammer</e2> while I accompanied a German film crew in Clearwater.""",instrument-agency
+"""A high voltage sand-filled <e1>fuse</e1> was made using a conventional sand-filled fuse <e2>design</e2>.""",instrument-agency
+"""The piglet's incisor <e1>teeth</e1> are cut off with <e2>pliers</e2>.""",instrument-agency
+"""As a result of direct persecution, habitat loss and <e1>habitat degradation</e1> from <e2>1950s</e2> until 1990s, brown bear population has decreased so much.""",cause-effect
+"""Close all <e1>doors</e1> inside the <e2>house</e2> to slow down fire spread from room to room.""",content-container
+"""But neither of the <e1>teens</e1> manufactured the <e2>fake device</e2>, he said.""",origin-entity
+"""The <e1>heater</e1> inside the <e2>car</e2> consumed gasoline.""",content-container
+"""Literary criticism is the study of literature by means of a microscopic knowledge of the language in which a book is written, of its <e1>growth</e1> from various <e2>roots</e2>, of its stages of development and the factors influencing them, of its condition in the period of this particular composition, of the writer's idiosyncrasies of thought and style in his ripening periods, of the general history and literature of his race, and of the special characteristics of his age and of his contemporary writers.""",cause-effect
+"""The university is the largest <e1>institution</e1> of <e2>research</e2> and education in Denmark with about 35.000 students and 7000 employees.""",part-whole
+"""The <e1>person</e1> providing the <e2>alibi</e2> could be the culprit and would be providing a fabricated alibi.""",origin-entity
+"""The <e1>stereograph</e1> produces the same <e2>output</e2>.""",product-producer
+"""The <e1>pollution</e1> in rain comes from <e2>mercury air pollution</e2> from coal-fired power plants and other industries.""",cause-effect
+"""The decedent was a licensed commercial truck driver and had been employed by this <e1>trucking</e1> <e2>company</e2> for five years.""",product-producer
+"""The third <e1>zone</e1> is procreated by the <e2>mid-ocean ridge</e2>, which is responsible for 7 percent of the earthquakes.""",product-producer
+"""He was a <e1>trouble</e1> <e2>maker</e2> then, a leader in SDS, and a trouble maker he remains.""",product-producer
+"""The resulting <e1>anti-social behaviour</e1> from <e2>alcohol consumption</e2> is an on-going matter that the town and the police continue to address, particularly in the summer months.""",cause-effect
+"""Ray Parlour shows his <e1>frustration</e1> after Middlesbrough's <e2>defeat</e2>.""",cause-effect
+"""The <e1>land</e1> surrounding the lakes is extensively farmed for <e2>wheat</e2>, while elsewhere in the National Park the steppe is heavily grazed by domestic livestock.""",product-producer
+"""The weights rested on the hard <e1>surface</e1> of the <e2>walkways</e2> .""",part-whole
+"""You can see it in every leaf that trembles, in every <e1>grain</e1> of <e2>sand</e2>.""",part-whole
+"""A second aspect of the invention provides apparatuses for indicating the position of an <e1>oar</e1> during <e2>rowing</e2>.""",instrument-agency
+"""Over the top of the hill was a <e1>fairly-decent refugee camp</e1> from a <e2>war</e2> that has never really ended.""",origin-entity
+"""The <e1>boys</e1> sawed wood with the <e2>sawing machine</e2> this afternoon.""",instrument-agency
+"""Find the <e1>infinitive</e1> from the <e2>participle</e2>.""",origin-entity
+"""This is a new tool to enhance <e1>role</e1> of <e2>pharmacists</e2> in health care.""",part-whole
+"""In addition, scientists may have a number of potentially useful targets to prevent and treat this lethal tumour because of the findings that NOXmediated <e1>overproduction</e1> of hydrogen peroxide is responsible for increased <e2>growth</e2> and decreased death of cancer cells.""",cause-effect
+"""This answer leads me to think that the <e1>robber</e1> was inside the <e2>office</e2> when the manager decided to take action and escape out the side door.""",content-container
+"""<e1>Cancer</e1> is found in <e2>lymph node areas</e2> on both sides of the diaphragm and in one area of a nearby organ or tissue other than the lymph nodes.""",part-whole
+"""This is the same basic <e1>mechanism</e1> at work in a <e2>vacuum cleaner</e2>, though the execution is a bit more complicated.""",instrument-agency
+"""The <e1>case studies</e1> never present in <e2>manuals</e2> allow the concepts to come alive and stimulate us to understand how we can apply them to our own supply chain.""",part-whole
+"""Learning to change your vehicle's <e1>engine</e1> <e2>oil</e2> can save you time and money.""",origin-entity
+"""If the <e1>request</e1> comes from a <e2>private company</e2>, there's no law that requires them to provide a disclosure notice.""",product-producer
+"""The <e1>building</e1> contained a significant amount of <e2>school furniture</e2> and equipment.""",content-container
+"""Eventually the <e1>company</e1> manufactured the <e2>machines</e2>.""",origin-entity
+"""As the <e1>policeman</e1> hit her with his <e2>truncheon</e2>, another police officer pushed him away from her and shouted for him to stop.""",instrument-agency
+"""Is it really possible to build the <e1>tree</e1> from a <e2>database</e2>?""",origin-entity
+"""A <e1>gift annuity</e1> combines a <e2>gift</e2> with an investment.""",instrument-agency
+"""We clicked the <e1>thumbnail</e1> for a <e2>preview</e2> of the theme.""",theme_tool
+"""The <e1>detainee</e1> is kept in the <e2>cell</e2> 23 Â½ hours a day.""",content-container
+"""Although the <e1>goats</e1> were farmed for their <e2>fibre</e2> from early times it was not until the 16th century that export of the goats was permitted.""",product-producer
+"""We drove down to Fort Myers in a <e1>jeep</e1> packed to the <e2>ceiling</e2> with equipment and no air conditioning.""",part-whole
+"""The <e1>projection</e1> was for <e2>revenue</e2> of $6.4 billion and earnings per share of 78 cents.""",theme_tool
+"""Laser profiling is a <e1>technique</e1> for the <e2>study</e2> of prosthetic heart valve leaflet motion.""",theme_tool
+"""The Office serves as the <e1>secretariat</e1> for the General Assembly's only <e2>committee</e2> dealing exclusively with international cooperation in the peaceful uses of space.""",theme_tool
+"""<e1>Canola</e1> <e2>oil</e2> is a versatile, neutral-tasting oil that is very low in saturated fat.""",origin-entity
+"""The <e1>implementor</e1> makes the <e2>decision</e2>, not the protocol.""",product-producer
+"""It is set in the most beautiful surroundings and the <e1>land</e1> has been biodynamically farmed for <e2>many years</e2>.""",product-producer
+"""As long as a surviving multiplexed copy of the controlfile exists, <e1>recovery</e1> from <e2>loss</e2> of a controlfile is simple.""",cause-effect
+"""The <e1>election</e1> for the two Legislative Yuan <e2>posts</e2> is scheduled for February 1.""",theme_tool
+"""Grubs tend to cause significant <e1>damage</e1> from <e2>autumn</e2> to spring by which time the larvae are becoming fully grown.""",cause-effect
+"""After the cashier put the <e1>cash</e1> in a <e2>bag</e2>, the robber saw a bottle of scotch that he wanted behind the counter on the shelf.""",content-container
+"""The <e1>kitchen</e1> contains various commercial equipment such as <e2>stoves</e2>, griddles, deep fryer, and an oven.""",content-container
+"""You own a <e1>house</e1> that contains a <e2>granny flat</e2>.""",content-container
+"""This is how much a <e1>recommendation</e1> for a <e2>product</e2> is worth in financial terms.""",theme_tool
+"""I explained that I was a teacher and that the <e1>boxes</e1> contained <e2>books</e2> I was bringing for the students to improve their English.""",content-container
+"""Because the <e1>trench</e1> was inside the <e2>fenced back yard</e2>, he saw no reason to worry about leaving it uncovered.""",content-container
+"""The <e1>boil</e1> in a <e2>bag</e2> omelets work great too.""",content-container
+"""Alabama has since enacted legislation, allowing <e1>death</e1> by <e2>lethal injection</e2> as an alternative choice to death in the electric chair.""",cause-effect
+"""The <e1>spiciness</e1> comes from small <e2>capsaicin glands</e2> located between the pepper's outside skin and the white ribs inside.""",cause-effect
+"""You can put <e1>wine</e1> in the <e2>hookah water</e2>, and otherwise adulterate the tobacco and so on to change the flavor.""",content-container
+"""A grantee may appeal this decision only if the <e1>withholding</e1> was for the grantee's <e2>failure</e2> to comply with the terms and conditions of a previous award.""",theme_tool
+"""A pop-up roll cage and active headrests aim to protect occupants during a rollover, and the <e1>floorboard</e1> is made from <e2>bamboo</e2> and aluminum.""",origin-entity
+"""Not sure what brand of model it came from but the <e1>wings</e1> are from a <e2>trashed plane</e2> my buddy had.""",origin-entity
+"""A star <e1>footballer</e1> can barely touch the <e2>ball</e2> for 90 minutes, then suddenly produce five seconds of genius that decides the game.""",instrument-agency
+"""Arthur and Franz are thieves, or they're trying to be thieves, and somehow learn that Odile lives in a <e1>house</e1> that contains a large sum of <e2>money</e2>.""",content-container
+"""You can see the <e1>wrinkles</e1> from 'Meredith's'<e2>face</e2> and you can even understand by looking the series that she is really about same age as 'Bailey'.""",cause-effect
+"""As viewed by a worshiper seated among the congregation, there are two speaker's stands on either <e1>side</e1> of the <e2>front</e2> of the church.""",part-whole
+"""This angle <e1>convention</e1> is used for self-rotation <e2>functions</e2>.""",theme_tool
+"""Unhappy with Beno Udrih, the Spurs are on the <e1>prowl</e1> for a more dependable two-way, pass-and-shoot point <e2>guard</e2>.""",theme_tool
+"""He sued Georgia Tech and the Board of Regents, claiming his professor and the University's administration should have provided him with laboratory safety training and should have warned him of the dangers of mixing acetone, ethanol, and <e1>nitric acid</e1> inside a <e2>metal container</e2>.""",content-container
+"""Hand creams counteract <e1>dryness</e1> from <e2>exposure</e2> to wind, sun, and detergents.""",cause-effect
+"""We want to assist the Iraqi government in establishing the <e1>foundations</e1> for a sound <e2>economy</e2> with the capacity to deliver essential services.""",theme_tool
+"""Francisco Garcia Lorca sees the <e1>horse</e1> carrying the <e2>rider</e2>, against his will, to his death.""",instrument-agency
+"""That year, summer students at the VLA made the first discovery of <e1>radio emission</e1> from a brown <e2>dwarf</e2>.""",cause-effect
+"""A <e1>pulsar</e1> powers the supernova <e2>remnant</e2> by confirming the existence of the point-like source and discovering a cloud of high-energy electrons around the central object.""",instrument-agency
+"""Let us sprinkle flowers around and put <e1>wine</e1> in the <e2>cup</e2>.""",content-container
+"""In particular, we work on devices that take the <e1>signal</e1> that is carried in a <e2>beam</e2> of light going through an optical fiber and transfer that signal to another beam of light going through the same fiber.""",content-container
+"""The <e1>judge</e1> hesitates, <e2>gavel</e2> poised, shooting them a warning look.""",instrument-agency
+"""Anyone seeking <e1>hair reduction</e1> by <e2>laser treatment</e2> should first consult with a dermatologist, says Moore.""",cause-effect
+"""I find it hard to bend and reach and I cannot use the <e1>cupboards</e1> in my <e2>kitchen</e2>.""",content-container
+"""Our <e1>mission</e1> in Iraq was to win the <e2>war</e2>. """,theme_tool
+"""Clinton Portis, who missed last week's game against Dallas because of a <e1>shoulder injury</e1> from the <e2>preseason</e2>, rushed for yards on attempts to become the fifth-fastest player to reach the 6,000-yard mark in his career.""",cause-effect
+"""We want ideas to save our planet, to save the <e1>planet</e1> from the <e2>imperialist threat</e2>.""",origin-entity
+"""The <e1>kitchen</e1> contains basic items such as <e2>salt</e2>, pepper and olive oil.""",content-container
+"""These <e1>criteria</e1> are used for determining chart <e2>position</e2> for Songs, CDs and Artists.""",theme_tool
+"""This publication details the <e1>procedure</e1> for filing a <e2>complaint</e2> under title III of the ADA.""",theme_tool
+"""The rest of the points are awarded proportionally to the distance the <e1>ball</e1> is from the <e2>farthest traveling ball</e2>.""",origin-entity
+"""He brought the broken <e1>door</e1> inside the <e2>house</e2>, put it on the floor in the middle of the room and checked carefully the stains near the knob.""",part-whole
+"""The <e1>light</e1> in the background is from the <e2>sunrise</e2>.""",origin-entity
+"""A sewing machine is a mechanical (or electromechanical) <e1>device</e1> that joins fabric using <e2>thread</e2>.""",instrument-agency
+"""And because of a last minute <e1>collapse</e1> from <e2>top</e2> to bottom - what would be and should be a perfect season to this point is just another year.""",cause-effect
+"""News from the Caravan posts a <e1>recipe</e1> for <e2>manti</e2>, a dish made in not just Kazakhstan, but also in the rest of Central Asia, Mongolia, and Turkey.""",theme_tool
+"""The <e1>door</e1> does not open inside the <e2>house</e2>, but outside, towards the person who wants to get in.""",part-whole
+"""In almost all of the incidents, the <e1>attacker</e1> developed the <e2>idea</e2> to harm the target before the attack.""",product-producer
+"""The <e1>data</e1> are derived primarily from a <e2>three-nation survey</e2> conducted for the Harvard School of Public Health and The Robert Wood Johnson Foundation by Louis Harris and Associates and its international affiliates between 10 June and 14 September 1994.""",origin-entity
+"""This understanding is consistent with behavioural studies that have failed to clearly distinguish between people with <e1>drinking</e1> <e2>problems</e2> and others.""",cause-effect
+"""Myles and Simpson also identify <e1>defensive behaviour</e1> from <e2>learners</e2> like lashing out verbally or physically or threatening the educators or other learners and withdrawing from others emotionally or physically.""",cause-effect
+"""<e1>Sunflower</e1> <e2>oil</e2> is obtained by extracting oil from sunflower seeds.""",origin-entity
+"""Peterson worked as a <e1>fertilizer</e1> <e2>salesman</e2> before his arrest.""",product-producer
+"""The letters are not painted on <e1>top</e1> of the <e2>stone</e2>, but actually engraved into the granite stone.""",part-whole
+"""The same <e1>company</e1> also makes a <e2>good coffee substitute</e2> called Bambu which is made from organic chicory combined with figs, cereals and acorns to the original recope of the late Swiss nature doctor and founder of the company, Alfred Vogel.""",product-producer
+"""In order for handwashing to be effective, vigorous friction, ample <e1>lather</e1> from <e2>soap</e2>, and thorough rinsing are needed to remove the germs from the hands.""",cause-effect
+"""We provide test preparers with a <e1>platform</e1> for populating a <e2>bank</e2> of questions during the course of the year.""",theme_tool
+"""However, an attacker could have easily added some marks to the paper and completely changed the <e1>meaning</e1> of the <e2>message</e2>.""",part-whole
+"""The moisturizers' primary function is to keep skin moist, minimize <e1>wrinkles</e1> from <e2>dryness</e2>, smoothe and soften skin, and to deliver other ingredients, like sunscreen, that benefit the skin.""",cause-effect
+"""This is why, not only the contents of the <e1>box</e1> were a <e2>present</e2>, but the box itself was as a present.""",content-container
+"""The <e1>company</e1> uses a <e2>policy assertion</e2> to convey a condition under which they offer a Web service.""",instrument-agency
+"""Tor is a <e1>toolset</e1> for a wide range of <e2>organizations</e2> and people that want to improve their safety and security on the Internet.""",theme_tool
+"""It is a <e1>device</e1> for aligning a <e2>pinhole</e2> with a microscope objective.""",theme_tool
+"""The <e1>sand</e1> <e2>trap</e2> is the most difficult shot on the golf course for most novice golf players.""",part-whole
+"""The Cleveland Cavaliers envision an arena full of cheering fans with no <e1>tickets</e1> in their <e2>pockets</e2>.""",part-whole
+"""A <e1>biologist</e1> combines a range of diverse and distributed <e2>resources</e2> (databases, tools, instruments) to answer complex questions.""",instrument-agency
+"""I think people really do themselves a disservice when they get their <e1>news</e1> from only one <e2>source</e2>.""",origin-entity
+"""Assuming that the <e1>data</e1> are from a <e2>multivariate normal distribution</e2>, data augmentation is applied to Bayesian inference with missing data by repeating a series of imputation and posterior steps.""",origin-entity
+"""So I was looking at the <e1>ceiling</e1> in my <e2>kitchen</e2> yelling at God.""",content-container
+"""The present invention refers to a <e1>device</e1> for actuating a <e2>membrane</e2> arranged in an opening to a space.""",theme_tool
+"""Nothing wrong with this if the <e1>goal</e1> was for students to acquire <e2>knowledge</e2>.""",theme_tool
+"""To repair, use duct tape or caulk to seal <e1>gaps</e1> in the <e2>metal box</e2> and between joints and seams in the duct.""",content-container
+"""A <e1>clinical lectureship</e1> combines a <e2>university lectureship</e2> with specialist registrar training (via an honorary national training number).""",instrument-agency
+"""A light <e1>cheese</e1> full of rustic <e2>flavors</e2>, it wakes up and soothes the senses with its unique flavor that is also warm and mild.""",part-whole
+"""Tapestries of rocky coastlines share wall space with a <e1>clock</e1> inside a ship's <e2>wheel</e2>.""",content-container
+"""Besides the ash texture, it is also important that shape of the burning <e1>end</e1> of the <e2>cigar</e2> is exposed after the ash has fallen off.""",part-whole
+"""<e1>Chicken</e1> <e2>bouillon</e2> can be obtained in three different forms, either liquid, powder or in cubes.""",origin-entity
+"""This daily assault of inflammation in their digestive system, plus the <e1>inflammation</e1> from your <e2>joints</e2> and an overworked immune system and excess weight can easily exceed the amount of inflammation your body can effectively handle.""",cause-effect
+"""Prepare some <e1>beef</e1> <e2>bouillon</e2> and let it cool.""",origin-entity
+"""People in Hawaii might be feeling <e1>aftershocks</e1> from that powerful <e2>earthquake</e2> for weeks.""",cause-effect
+"""You move the direction the <e1>mouse</e1> is from the <e2>crosshair</e2>.""",origin-entity
+"""Because the <e1>air</e1> in the <e2>jar</e2> cannot circulate to the rest of the room, this air stays in the sunlight and gets warmer and warmer.""",content-container
+"""It is a <e1>euphemism</e1> for overthrowing a hostile foreign <e2>government</e2>.""",theme_tool
+"""While that operation was a success, the contents of the <e1>satchel</e1> were a tiny <e2>loss</e2> for the traffickers.""",content-container
+"""Villagers live in constant <e1>terror</e1> of <e2>indiscriminate gunfire</e2> which fills the nights throughout Chechnya.""",cause-effect
+"""Our powered <e1>scissors</e1> effortlessly cut <e2>fabrics</e2>, gift wrap, vinyl and much more!""",instrument-agency
+"""A feel for numbers, and a <e1>passion</e1> for achieving a quantitative <e2>understanding</e2> of complex interactions is needed.""",theme_tool
+"""It is a <e1>tool</e1> for visualizing the <e2>topology</e2> of three-dimensional vector fields.""",theme_tool
+"""This looks like a <e1>piece</e1> of a <e2>contractual tablet</e2>.""",part-whole
+"""The <e1>data</e1> presented here are mainly derived from a <e2>survey</e2> designed by researchers at the Harvard School of Public Health.""",origin-entity
+"""The <e1>insurer</e1> will provide a <e2>cash deposit</e2> in advance.""",product-producer
+"""Companies face big <e1>risk</e1> from <e2>loss</e2> of key employees.""",cause-effect
+"""This prescription drug alleviates <e1>panic</e1> from <e2>claustrophobia</e2> and is also very handy for airplane rides and in case of broken-down subway cars or elevators.""",cause-effect
+"""Any <e1>injury</e1> from the <e2>neck</e2> to the shoulder of the brachial plexus would leave the arm useless.""",cause-effect
+"""The <e1>hair</e1> <e2>sticks</e2> are elegantly carved bone hand painted in a wispy, abstract design of peach, rose pink and mauve under layers of protective clear enamel.""",part-whole
+"""The <e1>scientists</e1> made the surprising <e2>observation</e2> that SMN will bind efficiently -- and carry out its functions -- if the proteins to which it needs to bind are first ""tagged"" by specific enzymes.""",product-producer
+"""<e1>Equipment</e1> for making repairs en route was carried in a <e2>jockey box</e2> attached to one end or side of the wagon.""",content-container
+"""In contrast, clay-textured soils are more difficult to prepare a <e1>canola</e1> <e2>seedbed</e2> because the clods can be too large when worked wet, and they tend to crust once worked to a fine seedbed.""",origin-entity
+"""That was a special comment on the <e1>president</e1>'s <e2>address</e2>.""",part-whole
+"""<e1>Batteries</e1> stored in a <e2>discharged state</e2> are susceptible to freezing, sulfation and an increased rate of discharge.""",content-container
+"""The <e1>dryer</e1> emits <e2>air</e2> that is regulated close to your body temperature.""",origin-entity
+"""These are the <e1>requirements</e1> for a full <e2>refund</e2> of the security deposit.""",theme_tool
+"""The <e1>tools</e1> made the <e2>job</e2> easy when it could have been a nightmare.""",product-producer
+"""The <e1>plan</e1> developed the <e2>premium rates</e2> in accordance with the laws and regulations governing the FEHBP.""",product-producer
+"""The contents of the <e1>cyst</e1> included a foul smelling <e2>gas</e2> and white-green pus.""",content-container
+"""The contents of the <e1>boxes</e1> included <e2>phone cards</e2>, disposable cameras and razors, travel-size toiletries, snack food, and lots of candy.""",content-container
+"""The <e1>display table</e1> contained <e2>books</e2> and posters for visitors to browse.""",content-container
+"""She opened a fridge in the side of the door and got out a <e1>blueberry</e1> <e2>vodka</e2>.""",origin-entity
+"""On the other hand, the <e1>information</e1> being carried in a high frequency quasi-sinusoidal <e2>wave</e2> invites comparisons with the auditory system of vertebrates.""",content-container
+"""The Federation is the <e1>voice</e1> for the <e2>humanities</e2> and social science researchers.""",theme_tool
+"""This is the <e1>winning sand castle</e1> from the Castlemania <e2>contest</e2>.""",origin-entity
+"""Entering the <e1>fissure</e1> created by the <e2>meteor's impact</e2>, Sephiroth would merge with all the energy of the planet, granting him god-like power over it.""",product-producer
+"""Effective <e1>canola</e1> <e2>production</e2> requires hands-on involvement with the crop.""",origin-entity
+"""Will I get the same <e1>amount</e1> of <e2>aid</e2> for all four years?""",part-whole
+"""Graffiti protection coatings are painted on <e1>top</e1> of the natural or painted <e2>surfaces</e2> to form a protective shield.""",part-whole
+"""The check given by Charles V to the advance of the Ottoman power along the African coast made him appear to the world as the liberator of the Christians and the <e1>terror</e1> of the <e2>infidels</e2>, and gave him such prestige that Francis felt obliged to get all the advantage possible out of his alliance.""",cause-effect
+"""Anemia, fatigue or <e1>drowsiness</e1> after <e2>meals</e2> may indicate that parasites are competing with the body for nutrients.""",cause-effect
+"""Include a note in the 'Comments' field of the purchase requisition stating that the <e1>services</e1> are being obtained from a <e2>nonresident alien</e2>.""",origin-entity
+"""That means that <e1>concentrations</e1> are not low in <e2>winter</e2> and not so high in summer.""",part-whole
+"""Does the <e1>product</e1> emit <e2>radiation</e2>?""",origin-entity
+"""This example of a uniform rod previews some common features about the process of finding the center of <e1>mass</e1> of the continuous <e2>body</e2>.""",part-whole
+"""The small knife <e1>assemblies</e1> are widely used for cutting various <e2>strips</e2> of flexible materials.""",instrument-agency
+"""The <e1>mountains</e1> of the <e2>peninsula</e2> can receive substantial rains and periodically, large amounts of water are washed down the river beds.""",part-whole
+"""It seems quite clear, therefore, that the <e1>claimant</e1>'s <e2>allegation</e2> of a lung condition is not substantiated by any of the reporting physicians of record.""",origin-entity
+"""It is a <e1>method</e1> for the <e2>solution</e2> of roots of a nonlinear equation and for solution of the general eigenvalue problem.""",theme_tool
+"""A letterbox is a plastic, screw-top <e1>bottle</e1> that contains a small <e2>notebook</e2> and a unique rubber stamp.""",content-container
+"""The family as a <e1>model</e1> for the <e2>organization</e2> of the state is a theory in political philosophy.""",theme_tool
+"""The conventional way to grow bacteria is to inoculate a <e1>flask</e1> that contains a <e2>broth</e2> of nutrients.""",content-container
+"""Then, while you relax, the <e1>chef</e1> prepares the <e2>meal</e2> and serves it, restaurant-style.""",product-producer
+"""National organization devoted to defending the <e1>teaching</e1> of <e2>evolution</e2> in public schools, and keeping creationism out.""",part-whole
+"""To the shock of international observers, the Libyan court found the medics guilty last year and sentenced them to <e1>death</e1> by <e2>firing squad</e2>.""",cause-effect
+"""Keep <e1>money</e1> in a <e2>box</e2> and keep your eye on it at all times.""",content-container
+"""From the diagrams of DaVinci to Hooke's microscopic bestiary, the beaks of Darwin's finches, Rosalind Franklin's x-rays or the <e1>latest photographic marvels</e1> retrieved from the <e2>remotest galactic outback</e2>, visualization of research has a long and literally illustrious history.""",origin-entity
+"""If the <e1>cited document</e1> is from the <e2>informative bibliography</e2>, the bibliographic number should be provided in the text and enclosed with brackets.""",origin-entity
+"""A city nightclub has had an ambitious expansion plan blocked over concerns about <e1>unruly behaviour</e1> from <e2>drunken revellers</e2>.""",cause-effect
+"""The <e1>web</e1> <e2>service</e2> is reasonably well-documented here.""",theme_tool
+"""The <e1>backup vocals</e1> are from a <e2>rather talented female</e2>, Stephanie Eitel.""",origin-entity
+"""The entry into force of Protocol 14 to the Convention is a <e1>prerequisite</e1> for the <e2>reforms</e2> proposed by the Group of Wise Persons.""",theme_tool
+"""I'm looking at one right now and he appears to be very content, despite the fact that he's trying to sleep in a <e1>kitchen</e1> that contains a noisy <e2>boiler</e2>.""",content-container
+"""Also, very rarely, hypnotherapy leads to the development of '<e1>false memories</e1>' fabricated by the <e2>unconscious mind</e2>; these are called confabulations.""",product-producer
+"""When deliberations began, the <e1>crowd</e1> of people jamming the hallways radiated <e2>optimism</e2>.""",origin-entity
+"""According to a <e1>spokeswoman</e1> for the Israeli <e2>army</e2>, factories in the Bekaa Valley were targeted because of suspicions that they were storing weapons.""",theme_tool
+"""EuroTB is the <e1>surveillance</e1> of <e2>tuberculosis</e2> in Europe.""",part-whole
+"""This can be caused by hepatitis, alcoholic liver disease, <e1>liver inflammation</e1> from <e2>medications</e2>, fatty liver, liver tumors, or heart failure.""",cause-effect
+"""The <e1>victim</e1>, who was positioned underneath the conveyor, was using a <e2>hammer</e2> to adjust the return roller.""",instrument-agency
+"""In Louisiana, more than 50 times more <e1>water</e1> is used for <e2>fish</e2> farming than is used for animals that produce meat, poultry, and milk.""",theme_tool
+"""Multiple reports of a man caught spying in the residence halls, women's showers have the UW Police Department (UWPD) on the <e1>lookout</e1> for a <e2>peeping tom</e2>. """,theme_tool
+"""<e1>Biodiesel</e1> is derived from <e2>vegetable oils</e2>.""",product-producer
+"""The Web's main <e1>virtue</e1>, in handling data, is to transmute <e2>organization</e2> from an a priori, content-based judgment to one that can be ad hoc, context-based, socially embedded, and constantly altered.""",theme_tool
+"""<e1>Famine</e1> following <e2>drought</e2> has hit the West African savannahs, where there have been other bad droughts, notably the great one of 1972-74.""",cause-effect
+"""About 30 ducks were found dead in Klamath County in the past two days, and officials are investigating whether the <e1>deaths</e1> are from a <e2>cholera outbreak</e2>.""",origin-entity
+"""<e1>Almond</e1> <e2>butter</e2> is available in many natural and whole food stores.""",origin-entity
+"""We will reposition ourselves and our events to attract <e1>scientists</e1> from <e2>complementary disciplines</e2>.""",origin-entity
+"""This insures appropriately fresh data is displayed if, for example, the <e1>prefetch</e1> is for a banner <e2>ad</e2> to a URL whose content changes with each request.""",theme_tool
+"""They use the dog park as a <e1>substitute</e1> for the <e2>walk</e2>.""",theme_tool
+"""Now, I have a plastic <e1>bottle</e1> that contains <e2>alcohol</e2> in which I put my artificial eyelashes at night when I take them off, to clean them and keep them safe.""",content-container
+"""The <e1>pollen</e1> is derived from a podocarp/broadleaved <e2>forest</e2>, which probably. covered both the alluvial flats and sides of the valley.""",origin-entity
+"""Small design <e1>changes</e1> including <e2>use</e2> of less dense tobacco, less porous paper, a smaller diameter, filter tip, and no added citrates to the paper are key elements here.""",part-whole
+"""We need a description of the bug and a <e1>recipe</e1> for recreating the <e2>bug</e2> reliably.""",theme_tool
+"""This industry and way of life, however, is in trouble as salmon decline due to <e1>habitat degradation</e1> from <e2>dams</e2>, clearcutting, and overgrazing along streams.""",cause-effect
+"""Some of the <e1>land</e1> was farmed for <e2>coffee</e2> in the past, but it is now mostly native vegetation (with some emergent trees).""",product-producer
+"""The <e1>idea</e1> was to connect <e2>hypertext</e2> with the Internet and personal computers.""",theme_tool
+"""The <e1>commander</e1> sawed logs with his <e2>neck</e2> hanging radically from one medieval arm while his feet hung three feet above the hardwood floor on the other side.""",instrument-agency
+"""<e1>Colors</e1> not high in <e2>contrast</e2> can be used instead.""",part-whole
+"""However, the fact that the guinea pigs appeared to function in a normal physiological manner indicates that the <e1>diets</e1> contained the necessary <e2>energy density</e2>.""",content-container
+"""Nor is a criminal filled with demons you can exorcise by thrashing them like a <e1>carpet</e1> full of <e2>dust</e2>.""",part-whole
+"""First, the <e1>sound</e1> radiated from a <e2>surface</e2> simulating a two-dimensional monopole is calculated using an unstructured mesh.""",origin-entity
+"""The <e1>women</e1>'s <e2>chorus</e2> of Dallas is one of the nation's finest women's choruses.""",part-whole
+"""Although Harry noticed it during exercise, the change that was identified was the difference in muscular <e1>discomfort</e1> from the <e2>beginning</e2> of his training program (riding five miles per day) to his current status two months later.""",cause-effect
+"""These are not simply memorable words written on a piece of <e1>paper</e1> kept in a <e2>museum</e2>.""",content-container
+"""And part of the <e1>job</e1> of the team member is to assist <e2>newcomers</e2>.""",theme_tool
+"""I was only thirteen, and they were going to have me psychoanalyzed and all, because I broke all the <e1>windows</e1> in the <e2>garage</e2>.""",part-whole
+"""For the Cartesian kernels there is only one number <e1>type</e1> that is used for all <e2>calculations</e2>.""",theme_tool
+"""Paul the <e1>novelist</e1> has a <e2>computer</e2> but uses his old Smith Corona manual.""",instrument-agency
+"""The <e1>granite</e1> <e2>benches</e2> are former windowsills from the Hearst Memorial Mining Building.""",part-whole
+"""And so hunts have begun using <e1>packs</e1> of <e2>hounds</e2> in combination with birds of prey.""",part-whole
+"""The <e1>notion</e1> of a backprojection was used in that <e2>section</e2> to characterize the set of states that can reach another set of states in one stage.""",instrument-agency
+"""The contents of the <e1>questionnaire</e1> included the <e2>gender</e2> and age of the patient, his/her knowledge of the procedure undertaken and the person obtaining consent.""",content-container
+"""The <e1>funeral</e1> was for Hakim Taniwal, a tribal elder and provincial <e2>governor</e2> who was killed in a suicide attack outside his office on Sunday.""",theme_tool
+"""The woman left the room and walked down the hall and saw the <e1>novelist</e1> hunched before his <e2>computer</e2>.""",instrument-agency
+"""Gingko biloba <e1>leaves</e1> don't contain that <e2>compound</e2>, although rich in other flavonoids, .""",part-whole
+"""In the summer, relax by the lake, take out a <e1>paddle</e1> <e2>boat</e2>, canoe or kayak or enjoy the sun at the split rock pool.""",instrument-agency
+"""Polystyrene with average molecular weight of 250,000-350,is particularly preferable because it is excellent in prevention of <e1>shrinkage</e1> after high-ratio <e2>expansion</e2>, and in balance of strength and fusing property.""",cause-effect
+"""Apartment residents in Delaware were awarded $million for health problems attributed to <e1>mold growth</e1> from <e2>unrepaired leaks</e2>.""",cause-effect
+"""The <e1>broadsword</e1> was used in some <e2>units</e2>.""",instrument-agency
+"""He predicts that the severe <e1>famine</e1> following the <e2>good years</e2> would require a political and economic reorganization in the country.""",cause-effect
+"""Beautifully packaged in faux <e1>velvet</e1> <e2>tray</e2> and boxed for giving, as complete remembrance of this important milestone.""",part-whole
+"""This is an overview of the viewer from a <e1>developer</e1>'s <e2>perspective</e2>.""",origin-entity
+"""The <e1>corbel</e1> was carved with a contorted <e2>face</e2>.""",instrument-agency
+"""A large <e1>rig</e1> combines a <e2>trampoline system</e2> with a bungee cord system.""",instrument-agency
+"""11-year-olds' entire <e1>plan</e1> for night is to smoke <e2>cigarettes</e2>.""",theme_tool
+"""The <e1>discoverer</e1> writes a <e2>short citation</e2> explaining the reasons for assigning the name.""",origin-entity
+"""The <e1>servant</e1> brought forth <e2>jewels</e2> of silver, and jewels of gold, and clothing, and gave them to Rebekah.""",product-producer
+"""On both of my systems, the <e1>reboot</e1> produced the ominous <e2>message</e2> 'Missing operating system'.""",product-producer
+"""It is noteworthy that Peacham's emblem has a <e1>hunter</e1> chasing the ermine with a <e2>spear</e2> and dogs.""",instrument-agency
+"""<e1>Calendar</e1> is cut off with some Firefox <e2>extensions</e2> that use the statusbar.""",instrument-agency
+"""The studies revealed that <e1>skin irritation</e1> from <e2>soaps</e2>, inaccessibility to supplies or sinks, and insufficient time to wash hands between every patient care contact were the main reasons given by healthcare workers for lack of handwashing compliance.""",cause-effect
+"""The first three arguments will set the environment variable object_is_image if the <e1>request</e1> was for an image <e2>file</e2>.""",theme_tool
+"""Among the contents of the <e1>vessel</e1> were a set of carpenter's <e2>tools</e2>, several large storage jars, ceramic utensils, ropes and remnants of food, as well as a heavy load of ballast stones.""",content-container
+"""Hoover is also notable for an extremely unusual <e1>vacuum</e1> <e2>cleaner</e2>, the Hoover Constellation, which is canister type but lacks wheels.""",instrument-agency
+"""A single <e1>blow</e1> made with the <e2>chisel</e2> angled incorrectly can crack a block or break a delicate protrusion.""",instrument-agency
+"""Thus, while today we need the expansion of localized cultural practices, they attain their real significance only within the <e1>struggle</e1> for the <e2>transformation</e2> of society as a whole.""",theme_tool
+"""The <e1>builder</e1> can mortise the hinges just as fast using a sharp <e2>chisel</e2>.""",instrument-agency
+"""In the case of aerodynamic lift, the <e1>aircraft</e1> is kept in the <e2>air</e2> by wings or rotors (see aerodynamics).""",content-container
+"""Mechanisms that incorporate external compression, limb elevation, exercise, and even a <e1>pump</e1> to improve venous <e2>drainage</e2> may be beneficial.""",instrument-agency
+"""<e1>Agarwood</e1>, the world's most valuable incense, is produced by the <e2>aquilaria tree</e2>, found in tropical rainforests, and has been used for centuries as incense and in traditional medicine.""",product-producer
+"""The <e1>students</e1> designed the home's <e2>living areas</e2> with an eye toward making a small house feel spacious.""",product-producer
+"""The white fatty <e1>substance</e1> obtained from the head of the sperm whale was used in <e2>pharmaceuticals</e2> and candles.""",instrument-agency
+"""We conducted a usability test on the enterprise-wide navigation system for this <e1>healthcare</e1> <e2>company</e2>'s proposed intranet redesign.""",product-producer
+"""The <e1>bombing</e1> produced the worst <e2>carnage</e2> since a Nov. 23 attack in the Shi'ite slum of Sadr City that killed more than 200 people.""",product-producer
+"""When the <e1>invoice</e1> is received from a <e2>vendor</e2>, you should verify that you have only been charged for goods or services that were ordered and received.""",origin-entity
+"""We removed extra <e1>underscores</e1> present in <e2>sysdef files</e2>.""",part-whole
+"""I'll tell you what <e1>kind</e1> of <e2>red hair</e2> he had.""",part-whole
+"""A <e1>blood</e1> <e2>alcohol</e2> level of .08 or higher will result in a DUI arrest.""",origin-entity
+"""Practically the whole car was empty, because it was pretty late and all, but she sat down next to me, instead of an empty seat, because she had this big bag with her and I was sitting in the <e1>front</e1> <e2>seat</e2>.""",part-whole
+"""That seems to me like an <e1>accusation</e1> out of <e2>ignorance</e2> seeing that you don't even know what my characters name is.""",cause-effect
+"""The <e1>outer shell</e1> is made from <e2>anodized aluminum</e2>.""",origin-entity
+"""Sheehan also announced at the signing that she's a <e1>finalist</e1> for the <e2>prize</e2>. """,theme_tool
+"""I'm assuming that the <e1>criticism</e1> is from the <e2>publisher side</e2>.""",origin-entity
+"""Put the <e1>flour</e1> in a preheated <e2>oven</e2> until warm to the touch (approximately 2 minutes).""",content-container
+"""The <e1>award</e1> was for his outstanding <e2>contribution</e2> to enterprise.""",theme_tool
+"""The southern <e1>supercell</e1> produced the longest <e2>tornado track</e2> of the outbreak (tornado #4).""",product-producer
+"""I heard of horror stories about a needle staying in the tissue after injection, it detached from a <e1>syringe</e1> after a <e2>nurse</e2> completed the injection and tried to withdraw the needle.""",instrument-agency
+"""The <e1>vaccine</e1> is produced by the <e2>government</e2> and is not for sale to private individuals or companies.""",product-producer
+"""Yanbian is also blessed with agricultural riches and is a major <e1>tobacco</e1> <e2>producer</e2>.""",product-producer
+"""The <e1>monitor</e1> shall provide a <e2>quarterly report</e2> to the Chapter (or NEC).""",product-producer
+"""It is entirely possible to sail a <e1>canoe</e1> using a <e2>paddle</e2> to steer.""",instrument-agency
+"""RBC accounts for all three <e1>types</e1> of <e2>invariances</e2>.""",part-whole
+"""An aqueous triethylamine (0.1 mol/l) <e1>solution</e1> was added to the <e2>acid precipitate</e2> until pH 6 was reached.""",part-whole
+"""At The Walker Law Firm, our Orange County, California <e1>corporation</e1> <e2>attorneys</e2> offer a full range of sophisticated and specialized services.""",part-whole
+"""<e1>Linoleum</e1> is a combination of <e2>linseed oil</e2>, cork powder, wood powder, organic pigments, and limestone, applied over a jute backing.""",part-whole
+"""The governor general of the Turkish province of Van, Mehmet Niyazi Tanilir, here Saturday said that the joint border of Iran and Turkey was a <e1>model</e1> for the <e2>world</e2>.""",theme_tool
+"""<e1>Sulfur</e1> is used for cooling and insulating of some high-voltage power <e2>systems</e2>.""",theme_tool
+"""The <e1>rest</e1> of the <e2>story</e2> is that the tobacco control movement appears to be plagued by a severe financial conflict of interest problem.""",part-whole
+"""The <e1>tests</e1> are generated randomly from a <e2>bank</e2> of questions developed for each module.""",origin-entity
+"""The <e1>outage</e1> was for <e2>reconfiguration</e2> of the new replica database.""",theme_tool
+"""This is a <e1>framework</e1> for querying a <e2>database</e2> for structural information on 3D images of macromolecules.""",theme_tool
+"""The <e1>mission</e1> of the SETI Institute is to explore, understand and explain the origin, nature and prevalence of <e2>life</e2> in the universe.""",theme_tool
+"""The <e1>challenges</e1> are being addressed from a <e2>manufacturing standpoint</e2> rather than ICT solutions that could answer them.""",origin-entity
+"""The <e1>objective</e1> was for a tough <e2>week</e2> leading up to the trip to the US, and we certainly got that.""",theme_tool
+"""The <e1>collaboration</e1> produced the PUMP (Pittsburg urban mathematics program) <e2>curriculum</e2>, which focuses on mathematical analyses of real-world situations, the use of computational tools, and on making algebra accessible to all students.""",product-producer
+"""The <e1>tutors</e1> provide a consistent, reliable <e2>intervention</e2> that allows students who are falling behind an opportunity to reach proficiency.""",product-producer
+"""Beware of the <e1>danger</e1> in <e2>running waters</e2>.""",part-whole
+"""Most <e1>cane</e1> <e2>sugar</e2> comes from countries with warm climates, such as Brazil, Pakistan, India, China and Australia.""",origin-entity
+"""For example, this obviously holds in the case of the <e1>marble</e1> <e2>slab</e2> of the table and local variation of temperature.""",part-whole
+"""It has opened a sacred refuge for every lie and wrong; no wildest form of which could fail to find some precedent within these Hebrew histories, which tell the story of a people's upward <e1>growth</e1> from <e2>savagery</e2>.""",cause-effect
+"""The <e1>clear spirit</e1> is distilled from <e2>fresh grain</e2>.""",origin-entity
+"""The entire site was actively farmed during the 2004 growing season and aerial photography indicates the <e1>site</e1> has been farmed for <e2>multiple years</e2>.""",product-producer
+"""Remember to reverse the position of <e1>batteries</e1> stored in <e2>flashlights</e2> to prevent them from accidentally switching on and losing power.""",content-container
+"""The <e1>process</e1> for obtaining a <e2>visa</e2> depends on what type of visa you are eligible for.""",theme_tool
+"""This <e1>form</e1> is used for background <e2>clearance</e2> and record keeping purposes.""",theme_tool
+"""Many tons of <e1>paper</e1> are used for printing <e2>tickets</e2>.""",theme_tool
+"""The <e1>email</e1> is received from a <e2>wealthy, dying person</e2> wanting to get their money out of the country.""",origin-entity
+"""This is a <e1>methodology</e1> for accrediting a commercial distributed <e2>database</e2>.""",theme_tool
+"""This <e1>information</e1> is used for tracking down <e2>errors</e2> and also to identify people who misuse the commentary area.""",theme_tool
+"""Where are the <e1>batteries</e1> kept in a <e2>phone</e2>?""",content-container
+"""The predictions presented at this NASA 2004 Transit of Venus web site are provided as a <e1>resource</e1> for the <e2>public</e2>.""",theme_tool
+"""The contents of the <e1>workshop</e1> included a <e2>discussion</e2> on various documents in respect of exports, imports and documents relating to letters of credit.""",content-container
+"""The natural, semantic <e1>way</e1> to express this <e2>information</e2> is to add an attribute.""",theme_tool
+"""The 3 km long <e1>beach</e1> extends from the <e2>mouth</e2> of the Oro River in the west, to the cliffs of Point Caramonal to the southeast.""",origin-entity
+"""She said that he described the meeting with her as an exception, since 'he does not normally have meetings directly with <e1>engineers</e1> from the <e2>regions</e2>.'""",origin-entity
+"""Genuine <e1>joy</e1> comes from profound <e2>spiritual awareness</e2> on life and an absolute clarity of direction, living for a purpose.""",cause-effect
+"""The <e1>bunny</e1> <e2>rabbits</e2> are coming.""",part-whole
+"""It is a <e1>method</e1> for solving a system of <e2>equations</e2>.""",theme_tool
+"""The <e1>dose</e1> makes the <e2>poison</e2>.""",origin-entity
+"""The original Waldorf <e1>salad</e1>, created at New York's Waldorf Astoria Hotel in the 1890s, contained only <e2>apples</e2>, mayonnaise, and celery.""",content-container
+"""<e1>Continuous improvement</e1> starts with the <e2>measuring</e2> of the process performance, and the instigation of a robust process for reviewing further changes logically and quickly.""",cause-effect
+"""I put the remaining <e1>candy</e1> in my <e2>mouth</e2> and walked back the way I came, then past the village and into town.""",content-container
+"""These characteristics are inconsistent with <e1>observations</e1> from <e2>earthquakes</e2> of comparable distance and magnitude to those that dominate the hazard at Yucca Mountain.""",cause-effect
+"""Every time you increase on a sleeve or knitted piece, add a <e1>knitting pin</e1> to the increase <e2>stitch</e2>.""",instrument-agency
+"""<e1>Zinc</e1> is essential for <e2>growth</e2> and cell division.""",cause-effect
+"""<e1>Electron microscopes</e1> are scientific instruments that use a <e2>beam</e2> of highly energetic electrons to examine objects on a very fine scale.""",instrument-agency
+"""Normally, the <e1>bone marrow</e1> produces <e2>stem cells</e2> (immature cells) that develop into mature blood cells.""",product-producer
+"""Rather, the <e1>preference</e1> was for the <e2>foods</e2> that contain it.""",theme_tool
+"""DomainKeys provide a <e1>mechanism</e1> for verifying the <e2>identity</e2> of an email sender in order to solve common spamming techniques such as forgery and spoofing.""",theme_tool
+"""I mentioned some time ago that our <e1>tendency</e1> is to regard <e2>sin</e2> as the reality.""",theme_tool
+"""The quartz sample <e1>tube</e1> with polyradical residue was cut with diamond <e2>knife</e2> to the size that fit into the Teflon digestion vessel.""",instrument-agency
+"""The Norwalk <e1>juicer</e1> grinds and presses any <e2>fruit</e2> or vegetable.""",instrument-agency
+"""'The Incredible Shrinking Man' follows Matheson's novel and effectively captures the <e1>terror</e1> of the <e2>protagonist</e2> as he shrinks to oblivion.""",cause-effect
+"""This program will be an effective step to mitigate <e1>damage</e1> from <e2>hurricanes</e2> - but let us not forget this is a retroactive measure.""",cause-effect
+"""I've heard the <e1>stock</e1> <e2>market</e2> is making a recovery but it's a bit early to invest my money.""",theme_tool
+"""We're honored to be chosen as a <e1>finalist</e1> for a CODiE <e2>award</e2> by the esteemed panel of judges.""",theme_tool
+"""This <e1>skateboard</e1> <e2>company</e2> designs skateboards specifically for girls.""",product-producer
+"""<e1>Words</e1> not present in <e2>dictionaries</e2> are almost always found in unrestricted texts.""",part-whole
+"""The incoming <e1>chairman</e1> of the <e2>committee</e2> is promising an array of oversight investigations that could provoke sharp disagreement with Republicans and the White House.""",part-whole
+"""Until 1729 the <e1>building</e1> contained only the <e2>grammar school</e2>.""",content-container
+"""But socialism, far from being 'finished', will once again become the idea that guides workers and youth in the <e1>struggle</e1> for a new <e2>society</e2>.""",theme_tool
+"""The <e1>quotation</e1> is from the <e2>preface</e2> to the fourth edition.""",origin-entity
+"""In the Millennium Declaration, the member <e1>states</e1> of the <e2>organization</e2> therefore, pledged to expand and strengthen the protection of civilians.""",part-whole
+"""The letters are not painted on top of the stone, but actually engraved into the <e1>granite</e1> <e2>stone</e2>.""",part-whole
+"""<e1>Tumors</e1> growing in these <e2>fibrinogen-deficient mice</e2> did not attract the CREKA peptide.""",part-whole
+"""The contents of the <e1>memorandum</e1> included <e2>stigmatizing statements</e2> about Cannon.""",content-container
+"""<e1>Regulation</e1> of <e2>food</e2> in the United States dates from early colonial times.""",part-whole
+"""The <e1>signal</e1> is received from a <e2>known direction</e2>.""",origin-entity
+"""<e1>Ginkgo</e1> is added for <e2>increased circulation</e2> to the reproductive system.""",cause-effect
+"""It is simple and ideal when all you want to do is freshen up clothes or smooth out <e1>wrinkles</e1> from <e2>garments</e2> that have been stored away.""",cause-effect
+"""<e1>Rain</e1> comes from <e2>evaporated seawater</e2>, transferring not just water but the solar energy that took it from the sea.""",cause-effect
+"""The <e1>image</e1> is from the <e2>poster</e2> 'Selling Counterfeit Products is Illegal'.""",origin-entity
+"""Attocube systems AG, one of the leading suppliers of nanopositioning devices for extreme environments, has been nominated today as a <e1>finalist</e1> for the <e2>award</e2>.""",theme_tool
+"""The film also features documentary like segments about fishing and about the <e1>evacuation</e1> after the <e2>eruption</e2> of the volcano.""",cause-effect
+"""In this study we examined <e1>mood alterations</e1> through <e2>physical activity</e2> and other interventions.""",cause-effect
+"""By the early '90s, Indian entrepreneurs bought a majority of the properties and flourished with the new <e1>immigrants</e1> from the <e2>subcontinent</e2>.""",origin-entity
+"""The other <e1>shelves</e1> contained <e2>books</e2> with sinister-sounding titles, such as Crime and Punishment, Days of Wrath, Death Walks Among You and a few others.""",content-container
+"""The lower mark is the Vienna <e1>company</e1> that made the <e2>mug</e2>.""",product-producer
+"""You're right that the <e1>punk explosion</e1> cultivated the underground/indie rock <e2>scene</e2> that would one day be called 'alternative music' that rooted deep into the culture.""",product-producer
+"""U.S. policy decisions over the past several years, have helped to lay the <e1>groundwork</e1> for the latest round of <e2>talks</e2>, she said.""",theme_tool
+"""The flavour and colour depend on the plants from which the <e1>bees</e1> manufactured the <e2>nectar</e2>.""",origin-entity
+"""And of course the original development that enabled the Protestant Reformation, precursor of the cultural <e1>split</e1> of <e2>science</e2> from other human endeavors.""",part-whole
+"""The <e1>artist</e1> made the <e2>picture</e2> when he was a fourth grade student in Iowa City.""",product-producer
+"""Everybody in the region experienced the <e1>tremors</e1> after <e2>midnight</e2>.""",cause-effect
+"""The <e1>colours</e1> were similarly derived from the <e2>style-sheet</e2>.""",origin-entity
+"""It seemed to be a regular rule that, whenever a <e1>horse</e1> stumbled the <e2>rider</e2> fell off instantly.""",instrument-agency
+"""The <e1>data</e1> is used for <e2>analysis</e2>, including knowledge of the visitor's identity.""",theme_tool
+"""The <e1>architect</e1> carefully designed the 15 <e2>rowhouses</e2>, reflecting the suburban ideal of the late 1800s.""",product-producer
+"""The <e1>purpose</e1> of CellML is to store and exchange computer-based mathematical <e2>models</e2>.""",theme_tool
+"""My sole <e1>desire</e1> was to write a <e2>book</e2> on black veterans using their words.""",theme_tool
+"""Flash Drives were designed to be portable - worn on a necklace or key chain - while <e1>diskettes</e1> should be carried in a <e2>case</e2> for protection.""",content-container
+"""The test is made by inserting the end of a <e1>jimmy</e1> or other <e2>burglar</e2>'s tool and endeavouring to produce impressions similar to those which have been found on doors or windows.""",instrument-agency
+"""The accident was not the only one that has raised strong doubts about <e1>air bags</e1> in <e2>BMW sedans</e2>"".""",part-whole
+"""An escalation <e1>factor</e1> is used for <e2>salaries</e2>, stipends, and other direct costs.""",theme_tool
+"""In Europe the <e1>fuel</e1> is distilled from <e2>canola oil</e2>.""",origin-entity
+"""The hotel is in the style of a <e1>country</e1> <e2>lodge</e2> and only has 18 rooms.""",origin-entity
+"""Contact information and financial <e1>information</e1> are kept private and is used for no other <e2>purpose</e2> than what is indicated above.""",theme_tool
+"""Unlike most of the annual showers the <e1>antihelion radiant</e1> is produced by <e2>debris</e2> from unknown sources orbiting in a direct motion like the earth.""",product-producer
+"""The <e1>legislature</e1> created the <e2>ombudsman</e2> to intervene when children or their parents are subjected to unauthorized or unreasonable agency decisions.""",product-producer
+"""LANDIS & STAEFA, INC. is awarded a <e1>contract</e1> for supplying the <e2>city</e2> of Seattle.""",theme_tool
+"""It is behind the <e1>hunt</e1> for the Higgs <e2>boson</e2>.""",theme_tool
+"""Original <e1>sculptures</e1> were carved with a <e2>chainsaw</e2>.""",instrument-agency
+"""Dr. Aimee Rose, a member of the <e1>team</e1> who made the <e2>discovery</e2>, predicts it will save many lives, both military and civilian.""",product-producer
+"""Select the <e1>appropriate government agency</e1> from the <e2>pull-down list</e2>, add comments in the comment box, and select the Submit button.""",origin-entity
+"""This is a poor <e1>recipe</e1> for a <e2>transformation</e2> for either discipline.""",theme_tool
+"""The following are very basic tips which may help you manage your <e1>anxiety</e1> in the <e2>exam</e2>.""",cause-effect
+"""Woz has outfitted the house with an elaborate <e1>swimming pool</e1> that extends inside the <e2>house</e2> by way of an underwater channel.""",content-container
+"""The <e1>tenant</e1> has farmed for this <e2>owner</e2> for several years and doesn't want to lose the ground, but also does not want to pay the large increase in rent.""",product-producer
+"""Sitting by the beach, Yuki mended the <e1>net</e1> while the <e2>fisherman</e2> collected the shells.""",instrument-agency
+"""If the <e1>weaver</e1> sits at the <e2>loom</e2> for extended periods of time, the intense pressure on her lower body generates severe lower back and leg pain.""",instrument-agency
+"""<e1>Evaluators</e1> applied the statistically accurate <e2>generalization</e2> that men are usually taller than women to their estimates of the height of individuals who did not necessarily conform to the generalization.""",instrument-agency
+"""The contents of the <e1>bag</e1> included numerous <e2>flyers</e2> from other conference sponsors and exhibitors and some useful stationery supplies.""",content-container
+"""Just as the <e1>net</e1> enables the <e2>fisherman</e2> to catch many fish in one go, the pattern was favored by the samurai as it symbolized victory over many opponents at one time.""",instrument-agency
+"""When Josh visits the Tatums, Josh meets his blonde haired twin cousin and two beautiful <e1>country</e1> <e2>cousins</e2>.""",origin-entity
+"""This represents a <e1>house</e1> that contains a <e2>light bulb</e2> and an airconditioner.""",content-container
+"""He used a stable form of <e1>liquid nitroglycerin</e1> carried in a <e2>bottle</e2> labeled as contact lens solution, using cotton as a stabilizer.""",content-container
+"""The risks of this procedure include anesthesia complications (especially General), post-operative difficulty breathing, and <e1>sore throat</e1> from <e2>intubation</e2>.""",cause-effect
+"""Pin is a <e1>tool</e1> for the dynamic <e2>instrumentation</e2> of programs.""",theme_tool
+"""The <e1>observatory</e1> has used a 45-meter cosmic radio emission <e2>telescope</e2> to make a number of important contributions.""",instrument-agency
+"""In contrast with tofu, which is made with soymilk, this <e1>dish</e1> is made with <e2>whole soybeans</e2>, making it a good source of fiber.""",part-whole
+"""<e1>Lutein</e1> is found in <e2>sweet corn</e2>, kale and broccoli, as well as spinach.""",part-whole
+"""If you mount the photo on a <e1>material</e1> that contains <e2>acid</e2> the paper will absorb the acid which in turn will attack the photo itself.""",content-container
+"""Today 75% of the <e1>county</e1> is intensively farmed for <e2>corn</e2>, soybeans, oats, and alfalfa with emphasis on dairy production.""",product-producer
+"""I worked as a <e1>crane</e1> <e2>operator</e2> in construction at that time.""",instrument-agency
+"""What did the residents and <e1>scientists</e1> learn from the Krakatau <e2>explosion</e2>?""",origin-entity
+"""Economists blame increased U.S. <e1>production</e1> of <e2>ethanol</e2> from corn as an alternative to oil.""",part-whole
+"""We think the <e1>emission</e1> is produced by <e2>material</e2> rapidly falling into an accretion disk, which heats up to high temperatures.""",product-producer
+"""Any <e1>marinade</e1> that contains <e2>acid</e2>, alcohol or salt should not be used for very long, because it will chemically 'cook' or denature the food in it.""",content-container
+"""You'll rarely see a <e1>clock</e1> inside a <e2>casino</e2>, the same goes for windows.""",content-container
+"""Combine strawberries and <e1>powder</e1> <e2>sugar</e2> and mix well.""",origin-entity
+"""This surgical operation isolates most of the <e1>right hemisphere</e1> from the <e2>left hemisphere</e2>.""",origin-entity
+"""Sudden <e1>death</e1> from <e2>inhalation</e2> of petroleum distillates is well recognised in misuses of volatile substances.""",cause-effect
+"""A new <e1>composter</e1> is now available from East Sussex County Council which can be kept in the <e2>kitchen</e2> and will take all organic waste.""",content-container
+"""The <e1>move</e1> from <e2>binary access</e2> (yes or no) to fine-grained authorization betrays a shift in mindset: from a defensible perimeter to a qualifier that identifies who can access what room.""",origin-entity
+"""If one were to put frozen prawns in a <e1>popcorn</e1> <e2>maker</e2>, one would obtain prawn crackers.""",product-producer
+"""Similarly, the western <e1>physician</e1>'s white coat and <e2>stethoscope</e2> and the environment of western medical clinics and hospitals create an aura of expectancy and hope for healing.""",instrument-agency
+"""Where's the <e1>outrage</e1> from the <e2>sexism crusaders</e2>?""",origin-entity
+"""Parents also experience <e1>anxiety</e1> from <e2>fear</e2> of the suffering of their child and worry about an uncertain outcome.""",cause-effect
+"""The <e1>actor</e1> played a psychopathic preacher with a restrained <e2>malice</e2>.""",instrument-agency
+"""The <e1>box</e1> contained the jumbled <e2>skeletal remains</e2> of what appeared to be sheep, as well as a variety of other mammals.""",content-container
+"""Download all the <e1>images</e1> from a <e2>website</e2> with a single click!""",origin-entity
+"""Complementing the data from PARK, GeoFEST will model the evolution of stress and strain in a detailed simulation of the crust and mantle, potentially helping researchers predict the <e1>deformation</e1> from an <e2>earthquake</e2> or a series of quakes.""",cause-effect
+"""This <e1>form</e1> is used for filing an initial financing <e2>statement</e2>.""",theme_tool
+"""This is a <e1>quest</e1> for a <e2>way</e2> around aging.""",theme_tool
+"""The <e1>sauce</e1> is made from <e2>soybean flour</e2>, chiles, red beans, and many other spices.""",origin-entity
+"""This public key <e1>algorithm</e1> is used for encrypting <e2>emails</e2>.""",theme_tool
+"""This Appalachian region had been settled by <e1>emigrants</e1> from the <e2>lowlands</e2>.""",origin-entity
+"""The <e1>simulation study</e1> produces <e2>voluminous results</e2>, since there are two types of models, each with four different specifications and with two sample sizes involved.""",product-producer
+"""<e1>Waves</e1> from <e2>earthquakes</e2> travel at different velocities through different media.""",cause-effect
+"""Researchers at Akishima Laboratories have developed similar devices in the past that used waves to draw pictures on the <e1>surface</e1> of <e2>water</e2>.""",part-whole
+"""Now if the Bagger can just get some <e1>popcorn</e1> from <e2>room service</e2>, he'll be all set.""",origin-entity
+"""This study investigated the <e1>effectiveness</e1> of <e2>magnesium</e2> in reducing sodium toxicity in water.""",part-whole
+"""It is widely known that significant reductions of these levels produce pastries with poor lift in the oven and with unacceptable <e1>shrinkage</e1> after <e2>cooling</e2>.""",cause-effect
+"""However, some may be able to perform minutes of moderate-intensity exercise two to three hours after breakfast without a high risk of hypoglycemia, despite slightly <e1>higher insulin levels</e1> after <e2>eating</e2>.""",cause-effect
+"""However, I believe that this is an opportune moment to change the <e1>political structures</e1> which procreated the <e2>events</e2> of Sept. 11th.""",product-producer
+"""Anti-aging <e1>foods</e1> are rich in <e2>antioxidants</e2>.""",part-whole
+"""In any case, we found no indications that <e1>fish</e1> <e2>oil</e2> would harm patients.""",origin-entity
+"""Did you know that the new ""Natural"" Dorito <e1>chips</e1> contain <e2>yeast extract</e2>?""",part-whole
+"""Some people voluntarily get involved with politicisation, while others become victims of <e1>circumstances</e1> created by the <e2>politicisation</e2>,"" he said.""",product-producer
+"""The <e1>kitchen</e1> contained one other interesting item, a <e2>trap door</e2> in the ceiling.""",content-container
+"""Where credit is granted, the <e1>supplier</e1>'s <e2>invoice</e2> will be payable within 30 days.""",origin-entity
+"""The <e1>bulbs</e1> in my <e2>house</e2> use 190 watts.""",content-container
+"""Earplugs relieve the <e1>discomfort</e1> from <e2>traveling</e2> with a cold allergy or sinus condition.""",cause-effect
+"""You haven't experienced true tartness until you've tasted the <e1>jelly</e1> inside a <e2>passionfruit</e2>.""",content-container
+"""We unscrew a <e1>light bulb</e1> that uses a lot of <e2>electricity</e2> and replace it with one that uses much less.""",instrument-agency
+"""An <e1>office</e1> that contains <e2>plants</e2> suggests you're trying to create an agreeable environment for yourself and others.""",content-container
+"""The <e1>steering committee</e1> developed the <e2>protocol</e2> and consent forms with the participating sites and guided the implementation of the trial.""",product-producer
+"""A <e1>midwife</e1> assists the <e2>birth</e2>, and women usually rely on their mothers or other women for support during labour.""",instrument-agency
+"""The <e1>boy</e1> who made the <e2>threat</e2> was arrested, charged, and had items confiscated from his home.""",product-producer
+"""This is assuming that the <e1>dividend</e1> is received from a <e2>treaty country</e2>.""",origin-entity
+"""In some Asian countries, including China, Malaysia and the Philippines, the <e1>turtles</e1> are farmed for <e2>food</e2>.""",product-producer
+"""<e1>Construction workers</e1> utilized a <e2>crane</e2> to assist in bringing roofing materials up to the top.""",instrument-agency
+"""The <e1>astronauts</e1> used the orbiter boom sensor <e2>system</e2> mounted on the end of the shuttle's robotic arm.""",instrument-agency
+"""The group is alleging the <e1>computer giant</e1> negligently designed the <e2>laptops</e2>, ultimately causing them to overheat and do damage their own motherboards.""",product-producer
+"""<e1>Thieves</e1> used a <e2>blowtorch</e2> and bolt cutters to force their way through a fenced area topped with razor wire.""",instrument-agency
+"""It is a <e1>method</e1> for transposing a <e2>matrix</e2>.""",theme_tool
+"""Elizabeth Smither's <e1>tokotoko</e1> was made with a <e2>gear lever</e2>.""",instrument-agency
+"""In the most common form of such an attack, called ischemic stroke, the <e1>blockage</e1> comes from a <e2>blood clot</e2> that develops in one of the brain's blood vessels.""",cause-effect
+"""Anti-gun <e1>forces</e1> still wield a lot of <e2>political power</e2>.""",instrument-agency
+"""Her employment at this <e1>mustard</e1> <e2>company</e2> is considered the earliest recorded evidence of a company specifically hiring an industrial nurse.""",product-producer
+"""The <e1>knight</e1> raised his dragon <e2>battle axe</e2>, and dealt the creature a crushing blow.""",instrument-agency
+"""Suppose you were given a <e1>bottle</e1> that contains 400 grams of a 3.0% <e2>bleach solution</e2>.""",content-container
+"""Ban Ki-moon calls for probe into <e1>murder</e1> of <e2>peacekeeper</e2> in southern Sudan.""",part-whole
+"""<e1>Insulin resistance</e1> with <e2>sleep deprivation</e2> has been reported in a laboratory study of young, healthy volunteers.""",cause-effect
+"""The <e1>forecast</e1> is for slightly higher <e2>temperatures</e2>.""",theme_tool
+"""Instead, he believes most of the <e1>noise</e1> comes from a <e2>vocal minority</e2>.""",product-producer
+"""My <e1>proposal</e1> is to concentrate on green <e2>energy</e2>.""",theme_tool
+"""A <e1>raindrop</e1> keeps the same <e2>shape</e2> to a reasonable approximation all the time it is falling.""",instrument-agency
+"""Quality forged pinking <e1>scissors</e1> cut with exceptional <e2>ease</e2> and efficiency.""",instrument-agency
+"""Immediately after the court is opened, the <e1>judge</e1> removes his <e2>wig</e2> and counsel are expected to follow suit.""",instrument-agency
+"""The <e1>glomeruli</e1> assist the <e2>kidneys</e2> in filtering urine from the blood.""",instrument-agency
+"""Nausea is the sensation of unease and <e1>discomfort</e1> from the <e2>stomach</e2>, with the sufferers feeling that they may vomit.""",cause-effect
+"""This assumes steady employment of a <e1>loom</e1> employing a master <e2>weaver</e2> and three assistants together with female and child helpers.""",instrument-agency
+"""Finding a <e1>piece</e1> of <e2>cake</e2> during Christmas holidays in Vienna is not quite a piece of cake.""",part-whole
+"""St John's wort was at least as effective as paroxetine in reducing severity of <e1>depression</e1> after six <e2>weeks</e2>.""",cause-effect
+"""Tom plans to continue to live the <e1>country</e1> <e2>life</e2> as he grows older.""",origin-entity
+"""The customers are happy and the <e1>marketer</e1> generates <e2>more income</e2> from the sales of his vehicles - everyone wins.""",origin-entity
+"""He was a <e1>young refugee</e1> on the run from a <e2>nation</e2> at war.""",origin-entity
+"""A couple of spoonsful would have been mixed with water to create a sweet and tart drink, the fruit providing the flavor and color, the <e1>sugar</e1> providing the <e2>sweetness</e2>, and the vinegar providing the tartness.""",origin-entity
+"""The <e1>appointment</e1> is for a three-year <e2>term</e2>, during which Robillard will remain dean of Carver College of Medicine.""",theme_tool
+"""In the months leading up to trade negotiations, estimates of the <e1>economic gains</e1> from <e2>trade liberalization</e2> suddenly become newsworthy.""",cause-effect
+"""The <e1>transition</e1> from <e2>dictatorship</e2> to democracy will take time, but it is worth every effort.""",origin-entity
+"""This new <e1>edition</e1> of the <e2>journal</e2> contains forty new entries ranging from such diverse topics.""",part-whole
+"""The <e1>transmitter</e1> emits a constant <e2>radio signal</e2> to create a 'safe zone'.""",product-producer
+"""In addition to serving as a <e1>fertilizer</e1> <e2>ingredient</e2>, ammonia can also be used directly as a fertilizer by forming a solution with irrigation water, without additional chemical processing.""",product-producer
+"""Providence had sent the old <e1>man</e1> into the world with a <e2>chisel</e2> in his hand.""",instrument-agency
+"""I would say that those <e1>regions</e1> are rich in <e2>fruit species</e2>.""",part-whole
+"""Jane Jacobs has argued that all <e1>economic progress</e1> comes from <e2>urban places</e2>, that cities are the source of economic prosperity, and the role of rural areas inevitably becomes less important as development takes place.""",cause-effect
+"""The <e1>basement carpeting</e1> is made from <e2>recycled plastic pop bottles</e2>, and the underpad was once automobile tires.""",origin-entity
+"""Learn how cartographic evidence refutes the authenticity of the Vinland Map and from where the <e1>map</e1>'s <e2>maker</e2> might have drawn inspiration.""",product-producer
+"""If the same sari is contracted out to a master <e1>weaver</e1> who owns a <e2>loom</e2> but employs two adults and two children to work on it, the adults would get Rs.400 each and the children Rs.100 each.""",instrument-agency
+"""He does not think the friends realize that the <e1>crisis</e1> begets the <e2>triumph</e2>, just as the coming war is the begetter of the Most Great Peace.""",product-producer
+"""Lowering your <e1>blood</e1> <e2>sugar</e2> is the key to managing diabetes.""",origin-entity
+"""The <e1>kitchen</e1> holds a <e2>cooker</e2>, fridge, microwave oven, in short; everything you need if you want to prepare a light meal.""",content-container
+"""This <e1>parser</e1> is used for parsing <e2>lists</e2> of comma or space separated SVG lengths.""",theme_tool
+"""I'm running a <e1>charity</e1> that helps the poorest school <e2>libraries</e2> in the U.S.""",instrument-agency
+"""This is in part due to the vast <e1>number</e1> of <e2>contexts</e2> in which the solutions are needed and that the central standards group is too small to capture solutions.""",part-whole
+"""During a dribble the <e1>dribbler</e1> keeps the <e2>ball</e2> on the side of his body that is away from the defender.""",instrument-agency
+"""It is also illegal for anyone other than the <e1>drug</e1>'s <e2>manufacturer</e2> to re-import a prescription drug that was originally manufactured in the United States.""",product-producer
+"""The <e1>clutter</e1> in my <e2>house</e2> was destroying me.""",content-container
+"""Although our <e1>product</e1> is <e2>SUGAR</e2> FREE, it can be used as ingredient in baking (e.g. cookies) and will behave about the same as regular chocolate candy.""",part-whole
+"""Suddenly, a man approached me from nowhere and stuck a bag of <e1>candy</e1> in my <e2>face</e2>.""",content-container
